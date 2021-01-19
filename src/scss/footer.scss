@@ -1,0 +1,51 @@
+//====================================================================================================
+
+//====================================================================================================
+
+.footer {
+    padding-bottom: 0;
+    a {
+        color: white;
+    }
+    &__site-name {
+        font-size: 30px;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+    &__contacts {
+        font-weight: 600;
+        font-size: 15px;
+        margin-bottom: 30px;
+        & p + p {
+            margin-top: 10px;
+        }
+    }
+    &__navbar {
+        .navbar__item {
+            border: 0 !important;
+            &:not(:last-child) {
+                padding: 0 30px 0 0;
+            }
+            &:last-child {
+                padding: 0 0 0 0;
+            }
+            & .navbar__link {
+                color: white;
+                font-weight: 400;
+            }
+        }
+    }
+    &__link {
+        padding-bottom: 15px;
+        display: block;
+        font-size: 17px;
+    } 
+    &__copyright {
+        padding-top: 30px;
+    }
+    @media (max-width: $md2+px) {
+        &__links {
+            margin-top: 30px;
+        }
+    }
+}
