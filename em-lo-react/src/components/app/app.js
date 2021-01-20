@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 
 import Header from '../header';
 import Footer from '../footer';
-
-import './app.css';
+import Banner from '../banner';
 
 export default class App extends Component {
     render() {
@@ -13,25 +12,9 @@ export default class App extends Component {
             <div classNameName="wrapper">
                 <Header />
                 <main className="page">
-                    <section className="welcome-block section">
-                        <div className="welcome-block__background">
-                            <picture>
-                                <source srcset="img/welcome-block-bg.webp" type="image/webp"></source><img src="img/welcome-block-bg.png"
-                                    alt=""/></picture>
-                        </div>
-                        <div className="_container">
-                            <div className="welcome-block__wrapper">
-                                <h1 className="welcome-block__title">EMERGENCY LOCKSMITH IN LONDON</h1>
-                                <div className="welcome-block__items">
-                                    <div className="welcome-block__item">24/7, 365 Days a Year</div>
-                                    <div className="welcome-block__item">From £ 39</div>
-                                    <div className="welcome-block__item">At your door in 15-25min</div>
-                                </div>
-                                <div className="welcome-block__callback"> <a href="tel:02080595259" className="btn btn--secondary">Call
-                                        us 020 8059 5259</a> </div>
-                            </div>
-                        </div>
-                    </section>
+                    <Banner title="Emergency Locksmith 24" features1="24/7, 365 Days a Year" 
+                    features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
+                    </Banner>
                     <section className="services section section--orange-bg">
                         <div className="_container">
                             <h2 className="block-title">Our services</h2>

@@ -1879,6 +1879,7 @@ body.ie ._ibg img {
     position: absolute;
     top: 0;
     right: 0;
+    
     cursor: pointer;
     z-index: 30;
     background: url(../img/icons/close.svg) 0 0 no-repeat;
