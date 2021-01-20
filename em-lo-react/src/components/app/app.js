@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Header from '../header';
 import Footer from '../footer';
 import Banner from '../banner';
+import Advantages from '../advantages';
 
 export default class App extends Component {
     render() {
@@ -15,21 +16,7 @@ export default class App extends Component {
                     <Banner title="Emergency Locksmith 24" features1="24/7, 365 Days a Year" 
                     features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
                     </Banner>
-                    <section className="services section section--orange-bg">
-                        <div className="_container">
-                            <h2 className="block-title">Our services</h2>
-                            <div className="services__items">
-                                <div className="row">
-                                    <div className="services__item col-md-4">Emergency locksmith</div>
-                                    <div className="services__item col-md-4">Lock Change</div>
-                                    <div className="services__item col-md-4">Emergency Lockout</div>
-                                    <div className="services__item col-md-4">Lock Installation</div>
-                                    <div className="services__item col-md-4">Lock Upgrade Of All Locks</div>
-                                    <div className="services__item col-md-4">Lock Opening</div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    <Advantages />
                     <section className="testimonials section">
                         <div className="_container">
                             <div className="testimonials__items">
