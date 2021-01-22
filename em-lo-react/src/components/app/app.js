@@ -21,10 +21,10 @@ export default class App extends Component {
                 <Header />
                 <Switch>
                     <Route  exact path='/' component={Home}/>
-                    <Route  exact path='/' component={About}/>
+                    <Route  exact path='/about' component={About}/>
                     <Route  exact path='/' component={Areas}/>
                     <Route  exact path='/' component={Blog}/>
-                    <Route  exact path='/' component={Contact}/>
+                    <Route  exact path='/contact' component={Contact}/>
                     <Route  exact path='/' component={Prices}/>
                     <Route  exact path='/' component={Services}/>
                 </Switch>

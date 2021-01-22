@@ -2,7 +2,7 @@ import React from 'react';
 
 const Callback = () => {
     return (
-        <section className="callback-block section section--orange-bg">
+        <section className="callback-block section section--blue-bg">
             <div className="_container">
                 <div className="callback-block__wrapper">
                     <div className="callback-block__text">Call us: 020 8059 5259 or</div>

@@ -25,7 +25,7 @@ export default class Advantages extends Component {
     };
     render() {
       return (
-            <section className="services section section--orange-bg">
+            <section className="services section section--blue-bg">
                 <div className="_container">
                     <h2 className="block-title">Our services</h2>
                     <div className="services__items">
@@ -39,6 +39,7 @@ export default class Advantages extends Component {
                     </div>
                 </div>
             </section>
+            
         );
     }
 }
