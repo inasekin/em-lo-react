@@ -3,12 +3,6 @@ import React from "react";
 const Banner = ({ features1, title, features2, features3, telefone }) => {
     return (
         <section className="welcome-block section">
-            <div className="welcome-block__background">
-                <picture>
-                    <source srcset="img/welcome-block-bg.webp" type="image/webp"></source>
-                    <img src="img/welcome-block-bg.png" alt=""/>
-                </picture>
-            </div>
             <div className="_container">
                 <div className="welcome-block__wrapper">
                     <h1 className="welcome-block__title">{title}</h1>
