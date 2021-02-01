@@ -9,6 +9,7 @@ import Blog from '../../pages/Blog';
 import Contact from '../../pages/Contact';
 import Prices from '../../pages/Prices';
 import Services from '../../pages/Services';
+import SingleArea from '../../pages/SingleArea';
 import Error from '../../pages/Error';
 
 import {Route, Switch} from 'react-router-dom';
@@ -28,6 +29,7 @@ export default class App extends Component {
                     <Route  exact path='/contact' component={Contact}/>
                     <Route  exact path='/' component={Prices}/>
                     <Route  exact path='/services' component={Services}/>
+                    <Route exact path='/areas/:slug' component={SingleArea}/> 
                     <Route  component={Error}/> 
                 </Switch>
             </div>

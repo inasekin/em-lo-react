@@ -37,11 +37,7 @@ export default class AreaProvider extends Component {
 
     render() {
         return (
-            <AreaContext.Provider
-            value={{
-            ...this.state,
-            getArea: this.getArea
-            }}>
+            <AreaContext.Provider value={{...this.state, getArea: this.getArea}}>
             {this.props.children}
             </AreaContext.Provider>
         );

@@ -1,16 +1,17 @@
 import React from "react";
-import AreasList from "../components/areas-list/areas-list";
 import Breadcrumbs from "../components/breadcrumbs";
-import ContactBlock from "../components/contact-block";
+import AreasContainer from "../components/areas-container";
 import DropDownText from "../components/drop-down text";
-import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
+import ContactBlock from "../components/contact-block";
+import Footer from "../components/footer";
+
 
 const Areas = () => {
         return ( 
             <>
                 <Breadcrumbs/>
-                <AreasList />
+                <AreasContainer />
                 <DropDownText/>
                 <Testimonials/>
                 <ContactBlock/>
