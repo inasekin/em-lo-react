@@ -2586,6 +2586,22 @@ body.ie ._ibg img {
     font-weight: 600;
 }
 
+.navbar__item a {
+    text-decoration: none;
+    font-size: 15px;
+    white-space: nowrap;
+    font-weight: 700;
+}
+
+.navbar__item a:visited {
+    color: #000;
+}
+
+.navbar__item a:hover {
+    color: #ff8e26;
+    font-weight: 600;
+}
+
 .navbar__link {
     -webkit-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;

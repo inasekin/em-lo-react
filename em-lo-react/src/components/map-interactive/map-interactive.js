@@ -3,10 +3,10 @@ import React from "react";
 const MapInteractive = () => {
 
     return ( 
-        <section class="section interactive-map">
-            <div class="_container">
-                <h2 class="block-title text--align-center">Areas we cover</h2>
-                <img class="interactive-map__map" />
+        <section className="section interactive-map">
+            <div className="_container">
+                <h2 className="block-title text--align-center">Areas we cover</h2>
+                <img className="interactive-map__map" />
             </div>
         </section>
     );

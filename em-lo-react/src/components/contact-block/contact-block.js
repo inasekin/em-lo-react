@@ -27,9 +27,12 @@ const ContactBlock = () => {
                     </div>
                 </div> <iframe className="map-block__map-wrapper"
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d317718.69319292053!2d-0.3817765050863085!3d51.528307984912544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2z0JvQvtC90LTQvtC9LCDQktC10LvQuNC60L7QsdGA0LjRgtCw0L3QuNGP!5e0!3m2!1sru!2sru!4v1604675510818!5m2!1sru!2sru"
-                    width="600" height="450" frameborder="0" allowfullscreen="" aria-hidden="false"
-                    tabindex="0"></iframe>
-                <div className="map-block__map-wrapper">						<picture><source srcset="img/map.webp" type="image/webp"/><img src="img/map.png" alt=""/></picture>					</div>
+                    width="600" height="450" aria-hidden="false"></iframe>
+                <div className="map-block__map-wrapper">
+                    <picture>
+                        <source srcSet="img/map.webp" type="image/webp"/><img src="img/map.png" alt=""/>
+                    </picture>
+                </div>
             </section>
         );
     };

@@ -1,13 +1,22 @@
 import React from "react";
-import Banner from '../components/banner';
+import AreasList from "../components/areas-list/areas-list";
+import Breadcrumbs from "../components/breadcrumbs";
+import ContactBlock from "../components/contact-block";
+import DropDownText from "../components/drop-down text";
+import Footer from "../components/footer";
+import Testimonials from "../components/testimonials";
 
 const Areas = () => {
 
-return ( 
-    <Banner title="Emergency Locksmith 24" features1="24/7, 365 Days a Year" 
-                    features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259"></Banner>
-);
-  
+    return ( 
+        <>
+            <Breadcrumbs/>
+            <AreasList/>
+            <DropDownText/>
+            <Testimonials/>
+            <ContactBlock/>
+            <Footer/>
+        </>
+    );
 };
-  
 export default Areas;

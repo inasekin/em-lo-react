@@ -17,16 +17,16 @@ export default class App extends Component {
 
 
         return (
-            <div classNameName="wrapper">
+            <div className="wrapper">
                 <Header />
                 <Switch>
                     <Route  exact path='/' component={Home}/>
                     <Route  exact path='/about' component={About}/>
-                    <Route  exact path='/' component={Areas}/>
+                    <Route  exact path='/areas' component={Areas}/>
                     <Route  exact path='/' component={Blog}/>
                     <Route  exact path='/contact' component={Contact}/>
                     <Route  exact path='/' component={Prices}/>
-                    <Route  exact path='/' component={Services}/>
+                    <Route  exact path='/services' component={Services}/>
                 </Switch>
             </div>
 

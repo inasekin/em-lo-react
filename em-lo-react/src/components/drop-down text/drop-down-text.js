@@ -2,11 +2,11 @@ import React from 'react';
 
 const DropDownText = () => {
     return (
-        <section class="content-more section">
-            <div class="_container">
-                <h2 class="block-title text--align-center">Locksmith Liverpool </h2>
-                <div class="content-more__wrapper">
-                    <div class="content-more__content">
+        <section className="content-more section">
+            <div className="_container">
+                <h2 className="block-title text--align-center">Locksmith Liverpool </h2>
+                <div className="content-more__wrapper">
+                    <div className="content-more__content">
                         <p><b>Türe öffnen</b><br/>
                             Been saved by this service on two separate occasions when we managed stupidly to lock ourselves out. The service was quick, super friendly and very affordable. Thanks! Highly recommend to anyone looking for an excellent locksmith.
                         </p>
@@ -27,8 +27,8 @@ const DropDownText = () => {
                         Die Gründe dafür, wieso die Tür nicht aufgeht, können verschieden sein. Ein einfacher, aber nicht seltener Grund ist, dass das Schloss einfach klemmt. Unser Fachmann findet die Ursache sofort, schlägt Ihnen die schnellste und für Sie günstigste Lösung vor. So kann das Schloss öfters ganz einfach repariert werden, ohne dass man es gleich ganz wechseln muss.
                         </p>
                     </div>
-                    <div class="content-more__more">
-                        <a href="#" class="btn btn--primary">More...</a>
+                    <div className="content-more__more">
+                        <a href="#" className="btn btn--primary">More...</a>
                     </div>
                 </div>
             </div>
