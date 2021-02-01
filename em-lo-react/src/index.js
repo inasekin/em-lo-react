@@ -11,12 +11,11 @@ import './index.css';
 ReactDOM.render(
   <AreaProvider>
     <Router>
-      <App />
+      <App/>
     </Router>
   </AreaProvider>,
 
-  document.getElementById('react-app')
-);
+  document.getElementById('react-app'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

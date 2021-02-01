@@ -16,8 +16,6 @@ import {Route, Switch} from 'react-router-dom';
 
 export default class App extends Component {
     render() {
-
-
         return (
             <div className="wrapper">
                 <Header />
@@ -29,7 +27,7 @@ export default class App extends Component {
                     <Route  exact path='/contact' component={Contact}/>
                     <Route  exact path='/' component={Prices}/>
                     <Route  exact path='/services' component={Services}/>
-                    <Route exact path='/areas/:slug' component={SingleArea}/> 
+                    <Route  exact path='/areas/:slug' component={SingleArea}/> 
                     <Route  component={Error}/> 
                 </Switch>
             </div>

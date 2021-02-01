@@ -8,7 +8,7 @@ const AreasList = ({ areas }) => {
             <div className="areas-block__wrapper">
                 <div className="row">
                 {areas.map(item => {
-                    return <AreasItem key={item.id} room={item} />;
+                    return <AreasItem key={item.id} area={item} />;
                 })}
                 </div>
                 <div className="areas-block__navigations">

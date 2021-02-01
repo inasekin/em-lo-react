@@ -8,15 +8,15 @@ import Footer from "../components/footer";
 
 
 const Areas = () => {
-        return ( 
-            <>
-                <Breadcrumbs/>
-                <AreasContainer />
-                <DropDownText/>
-                <Testimonials/>
-                <ContactBlock/>
-                <Footer/>
-            </>
+    return ( 
+        <div>
+            <Breadcrumbs/>
+            <AreasContainer/>
+            <DropDownText/>
+            <Testimonials/>
+            <ContactBlock/>
+            <Footer/>
+        </div>
         );
 };
 

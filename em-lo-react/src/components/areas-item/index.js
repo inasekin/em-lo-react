@@ -1,3 +1,3 @@
-import AreasItem from '../areas-list';
+import AreasItem from './areas-item';
 
 export default AreasItem;
