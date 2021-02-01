@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import areaImage from '../../img/area-image.jpg';
 
 export default class AreasList extends Component {
     render() {
@@ -10,42 +11,42 @@ export default class AreasList extends Component {
                     <div className="row">
                         <div className="col-sm-6 col-md-4 areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
                         </div>
                         <div className="col-sm-6 col-md-4  areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
                         </div>
                         <div className="col-sm-6 col-md-4  areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
                         </div>
                         <div className="col-sm-6 col-md-4  areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
                         </div>
                         <div className="col-sm-6 col-md-4  areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>
                         </div>
                         <div className="col-sm-6 col-md-4  areas-block__item">
                             <div className="areas-block__img">
-                            <img src="img/banner-img.jpg" alt="xxx"/>
+                            <img src={areaImage} alt="xxx"/>
                             </div>
                             <p>orem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum
                             lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum </p>

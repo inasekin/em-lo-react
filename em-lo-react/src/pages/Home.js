@@ -9,7 +9,6 @@ import DropDownText from "../components/drop-down text/drop-down-text";
 
 
 const Home = () => {
-
     return ( 
         <>
             <main className="page">
@@ -31,7 +30,5 @@ const Home = () => {
             <Footer />
         </>
     );
-  
 };
-  
 export default Home;

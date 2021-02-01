@@ -7,16 +7,16 @@ import Footer from "../components/footer";
 import Testimonials from "../components/testimonials";
 
 const Areas = () => {
-
-    return ( 
-        <>
-            <Breadcrumbs/>
-            <AreasList/>
-            <DropDownText/>
-            <Testimonials/>
-            <ContactBlock/>
-            <Footer/>
-        </>
-    );
+        return ( 
+            <>
+                <Breadcrumbs/>
+                <AreasList />
+                <DropDownText/>
+                <Testimonials/>
+                <ContactBlock/>
+                <Footer/>
+            </>
+        );
 };
+
 export default Areas;
