@@ -1,6 +1,6 @@
 import React from "react";
 
-const SeoText = () => {
+const SeoText = ({ textContent }) => {
 
 return ( 
     <section className="Who-block section section--blue-bg ">

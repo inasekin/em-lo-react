@@ -1,10 +1,15 @@
 import React, { Component } from "react";
 import defaultBcg from "../img/area-image.jpg";
 import Banner from "../components/banner";
+import DropDownText from "../components/drop-down-text"
+import ListOfAreas from "../components/list-of-areas"
+import Footer from "../components/footer";
+
 import { Link } from "react-router-dom";
 import { AreaContext } from "../context";
 
-export default class SingleAres extends Component {
+
+export default class SingleArea extends Component {
   constructor(props) {
     super(props);
     console.log(this.props);
@@ -43,13 +48,17 @@ export default class SingleAres extends Component {
     console.log(main);
 
     return (
-      <>
-          <Banner title={`${name}`}>
+        <>
+          <Banner title={`${name}`} 
+            features1="24/7, 365 Days a Year" 
+            features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
             <Link to="/areas" className="btn-primary">
               <button>back to areas</button>
             </Link>
           </Banner>
-        <section className="single-room">
+          <DropDownText></DropDownText>
+          <ListOfAreas></ListOfAreas>
+        {/* <section className="single-room">
           <div className="single-room-images">
             {defaultImages.map((item, index) => (
               <img key={index} src={item} alt={name} />
@@ -58,8 +67,9 @@ export default class SingleAres extends Component {
           <div className="text">
               <p>{textcontent}</p>
           </div>
-        </section>
-      </>
+        </section> */}
+          <Footer></Footer>
+        </>
     );
   }
 }

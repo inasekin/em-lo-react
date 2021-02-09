@@ -1,21 +1,21 @@
 import React from "react";
 
-const Breadcrumbs = () => {
+const Breadcrumbs = ({ title_breacrumbs }) => {
 
 return ( 
     <section className="page-header section section--orange-bg">
         <div className="_container">
             <div className="page-header__wrapper">
                 <h1 className="page-header__title">
-                    Title {}
+                    {title_breacrumbs}
                 </h1>
                 <div className="page-header__breadcrumbs breadcrumbs">
                     <ul className="breadcrumbs__items">
                         <li className="breadcrumbs__item">
-                            <a href="/">Main </a>
+                            <a href="/">Home </a>
                         </li>
                         <li className="breadcrumbs__item">
-                            <a href="/">{}</a>
+                            <a href="/">{title_breacrumbs}</a>
                         </li>
                     </ul>
                 </div>

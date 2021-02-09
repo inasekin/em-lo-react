@@ -19,7 +19,7 @@ export default class Header extends Component {
                     </button>
                     <div className="navbar header__navbar">
                         <ul className="navbar__wrapper">
-                            <li className="navbar__item active">
+                            <li className="navbar__item">
                                 <Link to="/">Home</Link>
                             </li>
                             <li className="navbar__item ">
@@ -29,7 +29,7 @@ export default class Header extends Component {
                                 <Link to="/services"  className="navbar__link">All services</Link>
                             </li>
                             <li className="navbar__item ">
-                                <Link to="/prices"  className="navbar__link">Prices</Link>
+                                <Link to="/price"  className="navbar__link">Price</Link>
                             </li>
                             <li className="navbar__item ">
                                 <Link to="/areas"  className="navbar__link">Areas we cover</Link>
