@@ -2906,8 +2906,9 @@ h2 {
   box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.25);
   border-radius: 5px;
   width: 35%;
-  position: relative;
+  position: absolute;
   z-index: 2;
+  top: 12%;
 }
 
 .map-block__title {
@@ -7696,4 +7697,12 @@ h2 {
 @media print {
   @supports (-webkit-appearance: none) {
   }
+}
+
+.areas-item-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ff8e26;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

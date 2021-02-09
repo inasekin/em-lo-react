@@ -1014,26 +1014,3 @@ if (quantityButtons.length > 0) {
 		});
 	}
 }
-
-$('.testimonials-slider').slick({
-	infinite: true,
-	slidesToShow: 2,
-	slidesToScroll: 1,
-	responsive: [
-		{
-		  breakpoint: 600,
-		  settings: {
-			slidesToShow: 1,
-			slidesToScroll: 1
-		  }
-		}
-	  ]
-  });
-
-  jQuery('.areas-block__slides').flexslider({
-	animation: "slide",
-	direction: "vertical", 
-	controlNav: false, 
-	directionNav: true,
-    customDirectionNav: $(".areas-block__navigations .areas-block__arrow")
-});

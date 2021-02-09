@@ -1,59 +1,21 @@
 import React from "react";
+import items from "../../data";
 
 const ListOfAreas = () => {
+
     return (
-        <section class="Who-block section section--blue-bg ">
-            <div class="_container">
-            <h2 class="block-title text--align-center">Areas we cover</h2>
-            <div class="footer-services col-12">
-                <ul class="row">
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
-                    <li class="col-3">lorem district service </li>
+        <section className="Who-block section section--blue-bg ">
+            <div className="_container">
+            <h2 className="block-title text--align-center">Areas we cover</h2>
+            <div className="footer-services col-12">
+                <ul id="list-area" className="row">
+                    {items.map(item => 
+                    <li key={item.id + "_" + Math.random()} className="col-3">
+                        <a href={item.fields.url} key={item.id}>
+                            {item.fields.name}
+                        </a>
+                    </li>
+                    )}
                 </ul>
             </div>
             </div>

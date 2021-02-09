@@ -9,12 +9,12 @@ const AreasItem = memo(({ area }) => {
     const { name, slug, images, textcontent } = area;
     // console.log(name);
     return (      
-        <div className="areas-block__item col-sm-6 col-md-4">
+        <div className="col-sm-6 col-md-4 areas-block__item">
             <Link to={`/areas/${slug}`} className="btn-primary room-link">
             <div className="areas-block__img">
             <img src={images[0] || defaultImg} alt="xxx" />
             </div>
-            <h6>₹{name}</h6>
+            <h3 className="areas-item-title">{name}</h3>
             <p>{textcontent}</p>
             </Link>
         </div>

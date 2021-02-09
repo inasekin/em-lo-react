@@ -1,9 +1,10 @@
 import React, { Component } from "react";
+import MetaTags from 'react-meta-tags';
 import defaultBcg from "../img/area-image.jpg";
 import Banner from "../components/banner";
-import DropDownText from "../components/drop-down-text"
-import ListOfAreas from "../components/list-of-areas"
+import ListOfAreas from "../components/list-of-areas/list-of-areas"
 import Footer from "../components/footer";
+
 
 import { Link } from "react-router-dom";
 import { AreaContext } from "../context";
@@ -49,14 +50,18 @@ export default class SingleArea extends Component {
 
     return (
         <>
+          <MetaTags>
+            <title>{title}</title>
+            <meta id="meta-description" name="description" content={description} />
+          </MetaTags>
           <Banner title={`${name}`} 
             features1="24/7, 365 Days a Year" 
             features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
-            <Link to="/areas" className="btn-primary">
-              <button>back to areas</button>
-            </Link>
           </Banner>
-          <DropDownText></DropDownText>
+          <Link to="/areas" className="btn-primary">
+              <button>back to areas</button>
+          </Link>
+          <p className="single-area-text">{textcontent}</p>
           <ListOfAreas></ListOfAreas>
         {/* <section className="single-room">
           <div className="single-room-images">

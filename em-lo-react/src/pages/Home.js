@@ -3,6 +3,7 @@ import Footer from '../components/footer';
 import Banner from '../components/banner';
 import Advantages from '../components/advantages';
 import Callback from '../components/callback';
+import MapInteractive from '../components/map-interactive';
 import ContactBlock from '../components/contact-block';
 import Testimonials from "../components/testimonials";
 import DropDownText from "../components/drop-down-text/drop-down-text";
@@ -24,11 +25,7 @@ const Home = () => {
                     <Testimonials/>
                     <Callback/>
                     <DropDownText/>
-                    <section className="areas-block section ">
-                        <div className="_container">
-                            <h2 className="block-title text--align-center">Areas we cover</h2>
-                        </div>
-                    </section>
+                    <MapInteractive />
                     <ContactBlock />
             </main>
             <a href="#content" className="back-to-top"></a>
