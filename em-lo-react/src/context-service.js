@@ -12,7 +12,7 @@ export default class ServiceProvider extends Component {
 
     componentDidMount() {
         let services = this.formatData(items);
-        let featuredServices = services.filter(area => service.featured === true);
+        let featuredServices = services.filter(service => service.featured === true);
 
         this.setState({
             services,
@@ -29,8 +29,8 @@ export default class ServiceProvider extends Component {
             return tempItems;
     };
     getService = slug => {
-        let tempServices = [...this.state.service];
-        const area = tempServices.find(service => service.slug === slug);
+        let tempServices = [...this.state.services];
+        const service = tempServices.find(service => service.slug === slug);
         return service;
     };
 

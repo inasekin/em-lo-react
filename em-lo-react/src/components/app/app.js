@@ -9,6 +9,9 @@ import Blog from '../../pages/Blog';
 import Contact from '../../pages/Contact';
 import Price from '../../pages/Price';
 import Services from '../../pages/Services';
+import Sitemap from '../../pages/Sitemap';
+import Disclaimer from '../../pages/Disclaimer';
+import SingleService from '../../pages/SingleService';
 import SingleArea from '../../pages/SingleArea';
 import Error from '../../pages/Error';
 
@@ -26,7 +29,10 @@ export default class App extends Component {
                     <Route  exact path='/blog' component={Blog}/>
                     <Route  exact path='/contact' component={Contact}/>
                     <Route  exact path='/price' component={Price}/>
+                    <Route exact path='/disclaimer' component={Disclaimer}/>
+                    <Route exact path='/sitemap' component={Sitemap}/>
                     <Route  exact path='/services' component={Services}/>
+                    <Route  exact path='/services/:slug' component={SingleService}/>
                     <Route  exact path='/areas/:slug' component={SingleArea}/> 
                     <Route  component={Error}/> 
                 </Switch>

@@ -1,16 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {ServiceProvider} from './context-service';
 import {AreaProvider} from './context';
 import App from './components/app';
 import {BrowserRouter as Router} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <AreaProvider>
-    <Router>
-      <App/>
-    </Router>
-  </AreaProvider>,
+  <ServiceProvider>
+    <AreaProvider>
+        <Router>
+          <App/>
+        </Router>
+      </AreaProvider>
+  </ServiceProvider>,
 
   document.getElementById('react-app'));
 

@@ -3083,10 +3083,6 @@ h2 {
   display: inline-block;
 }
 
-.breadcrumbs__item::after {
-  content: "/";
-}
-
 .breadcrumbs__item:last-child:after {
   display: none;
 }
@@ -7713,4 +7709,31 @@ h2 {
   color: #ff8e26;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.service-link {
+  color: #fff !important;
+}
+
+.agreement-md {
+  margin-top: 140px;
+}
+
+.disclaimer-primary-title {
+  color: #ff8e26;
+  font-weight: 600;
+  font-size: 40px;
+  margin-bottom: 60px;
+}
+
+.disclaimer-second-title {
+  color: #ff8e26;
+  font-weight: 500;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.sitemap-content {
+  margin-top: 140px;
 }

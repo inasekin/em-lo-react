@@ -8,6 +8,8 @@ import Footer from "../components/footer";
 
 import { Link } from "react-router-dom";
 import { AreaContext } from "../context";
+import ContactBlock from "../components/contact-block";
+import DropDownText from "../components/drop-down-text";
 
 
 export default class SingleArea extends Component {
@@ -44,7 +46,8 @@ export default class SingleArea extends Component {
       description,
       textcontent,
       title,
-      images
+      images,
+      url
     } = area;
     const [main, ...defaultImages] = images;
     console.log(main);
@@ -52,28 +55,24 @@ export default class SingleArea extends Component {
     return (
         <>
           <MetaTags>
+            <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
             <title>{title}</title>
             <meta id="meta-description" name="description" content={description} />
+            <meta property="og:url" content={url}/>
+            <meta property="og:type" content="page"/>
+            <meta property="og:title" content={title}/>
+            <meta property="og:description" content={description}/>
           </MetaTags>
           <Banner title={`${name}`} 
             features1="24/7, 365 Days a Year" 
             features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
           </Banner>
-          <Link to="/areas" className="btn-primary">
-              <button>back to areas</button>
-          </Link>
-          <p className="single-area-text">{textcontent}</p>
+
+          <div className="container">
+          <DropDownText titleText={name} text={textcontent}/>
+          </div>
           <ListOfAreas></ListOfAreas>
-        {/* <section className="single-room">
-          <div className="single-room-images">
-            {defaultImages.map((item, index) => (
-              <img key={index} src={item} alt={name} />
-            ))}
-          </div>
-          <div className="text">
-              <p>{textcontent}</p>
-          </div>
-        </section> */}
+          <ContactBlock/>
           <Footer></Footer>
         </>
     );

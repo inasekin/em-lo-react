@@ -1,5 +1,8 @@
 import React from 'react';
 import some_icons from '../../img/some-icons.png';
+import { Link } from "react-router-dom";
+
+import items from "../../data-service";
 
 const Footer = () => {
         return (
@@ -17,29 +20,20 @@ const Footer = () => {
                             <p>Our office:</p>
                             <p>179 Queens Dr, Liverpool L15 6XS</p>
                             <div className="sitemap-a">
-                                <a href="">Sitemap</a>
-                                <a href="">Disclaimer</a>
+                                <Link to="/sitemap">Sitemap</Link>
+                                <Link to="/disclaimer">Disclaimer</Link>
                             </div>
 
                         </div>
                         <div className="footer-services col-lg-4 col-sm-12">
                             <ul className="row">
-                                <li className="col-6">Emergency locksmith service </li>
-                                <li className="col-6">Domestic locksmith</li>
-                                <li className="col-6">Commercial locksmith</li>
-                                <li className="col-6">Lock repair</li>
-                                <li className="col-6">Lock change</li>
-                                <li className="col-6"> Lock installation </li>
-                                <li className="col-6">Burglary repairs</li>
-                                <li className="col-6">Locked out service</li>
-                                <li className="col-6"> Key copy </li>
-                                <li className="col-6">Safe locksmith</li>
-                                <li className="col-6">Window lock repair </li>
-                                <li className="col-6">Window lock change</li>
-                                <li className="col-6"> Window lock installation </li>
-                                <li className="col-6">Garage door lock repair</li>
-                                <li className="col-6">Garage door lock change</li>
-                                <li className="col-6">Garage door lock installation</li>
+                                {items.map(item => 
+                                <li key={item.id + "_" + Math.random()} className="col-6">
+                                    <a href={item.fields.url} key={item.id}>
+                                        {item.fields.name}
+                                    </a>
+                                </li>
+                                )}
                             </ul>
                         </div>
                     </div>

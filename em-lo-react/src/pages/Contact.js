@@ -12,8 +12,13 @@ const Contact = () => {
     return ( 
         <>
             <MetaTags>
+                <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
                 <title>Contact - 24/4 locksmith services in Liverpool</title>
                 <meta id="meta-description" name="description" content="Contact. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259" />
+                <meta property="og:url" content="https://emergency-locksmith-24.co.uk/contact/"/>
+                <meta property="og:type" content="page"/>
+                <meta property="og:title" content="Contact - 24/4 locksmith services in Liverpool"/>
+                <meta property="og:description" content="Contact. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259"/>
             </MetaTags>
             <Banner title="Emergency Locksmith 24" features1="24/7, 365 Days a Year" 
             features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
