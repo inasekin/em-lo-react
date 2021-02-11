@@ -1,28 +1,7 @@
 import React, { Component } from "react";
+import items from "../../data-service";
 
 export default class Advantages extends Component {
-    state = {
-        services: [
-            {
-                title: "Emergency locksmith"
-            },
-            {
-                title: "Lock Change"
-            },
-            {
-                title: "Emergency Lockout"
-            },
-            {
-                title: "Lock Installation"
-            },
-            {
-                title: "Lock Upgrade Of All Locks"
-            },
-            {
-                title: "Lock Opening"
-            }
-        ]
-    };
     render() {
       return (
             <section className="services section section--blue-bg">
@@ -30,9 +9,9 @@ export default class Advantages extends Component {
                     <h2 className="block-title">Our services</h2>
                     <div className="services__items">
                         <div className="row">
-                            {this.state.services.map(item => {
+                            {items.map(item => {
                                 return (
-                                    <div className="services__item col-md-4">{item.title}</div>
+                                    <div className="services__item col-md-4">{item.fields.name}</div>
                                 );
                             })}
                         </div>
