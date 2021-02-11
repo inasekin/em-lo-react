@@ -31,6 +31,7 @@ export default class SingleArea extends Component {
     if (!area) {
       return (
         <div className="error">
+          
           <h3> No such area could be found...</h3>
           <Link to="/areas" className="btn-primary">
             back to areas
