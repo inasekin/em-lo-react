@@ -5,7 +5,6 @@ import { memo } from "react";
 
 const ServiceItem = memo(({ service }) => {
     const { name, slug, url } = service;
-    console.log(service);
     return (      
         <div className="services__item col-md-4">
             <a href={url} className="btn-primary service-link">
@@ -31,3 +30,4 @@ ServiceItem.propTypes = {
     })
 };
 export default ServiceItem;
+

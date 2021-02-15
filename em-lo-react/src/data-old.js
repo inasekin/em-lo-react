@@ -92,7 +92,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Everton",
-        url: "/areas/locksmith-in-everton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-everton/",
         slug: "locksmith-in-everton",
         title: "Locksmith in Everton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -115,7 +115,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Vauxhal",
-        url: "/areas/locksmith-in-vauxhal/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-vauxhal/",
         slug: "locksmith-in-vauxhal",
         title: "Locksmith in Vauxhal - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -138,7 +138,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Anfield",
-        url: "/areas/locksmith-in-anfield/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-anfield/",
         slug: "locksmith-in-anfield",
         title: "Locksmith in Anfield - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -161,7 +161,7 @@ export default [
         },
         fields: {
         name: "Locksmith in City Centre",
-        url: "/areas/locksmith-in-city-centre/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-city-centre/",
         slug: "locksmith-in-city-centre",
         title: "Locksmith in City Centre - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -184,7 +184,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Kirkdale",
-        url: "/areas/locksmith-in-kirkdale/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-kirkdale/",
         slug: "locksmith-in-kirkdale",
         title: "Locksmith in Kirkdale - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -206,7 +206,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Walton",
-        url: "/areas/locksmith-in-walton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-walton/",
         slug: "locksmith-in-walton",
         title: "Locksmith in Walton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -229,7 +229,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Fairfield",
-        url: "/areas/locksmith-in-fairfield/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-fairfield/",
         slug: "locksmith-in-fairfield",
         title: "Locksmith in Fairfield - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -251,7 +251,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Kensington",
-        url: "/areas/locksmith-in-kensington/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-kensington/",
         slug: "locksmith-in-kensington",
         title: "Locksmith in Kensington - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -273,7 +273,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Tuebrook",
-        url: "/areas/locksmith-in-tuebrook/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-tuebrook/",
         slug: "locksmith-in-tuebrook",
         title: "Locksmith in Tuebrook - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -295,7 +295,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Edge Hill",
-        url: "/areas/locksmith-in-edge-hill/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-edge-hill/",
         slug: "locksmith-in-edge-hill",
         title: "Locksmith in Edge Hill - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -317,7 +317,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Dingle",
-        url: "/areas/locksmith-in-dingle/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-dingle/",
         slug: "locksmith-in-dingle",
         title: "Locksmith in Dingle - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -339,7 +339,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Toxteth",
-        url: "/areas/locksmith-in-toxteth/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-toxteth/",
 
         slug: "locksmith-in-toxteth",
         title: "Locksmith in Toxteth - 24/4 locksmith services in Liverpool",
@@ -362,7 +362,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Aintree",
-        url: "/areas/locksmith-in-aintree/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-aintree/",
         slug: "locksmith-in-aintree",
         title: "Locksmith in Aintree - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -384,7 +384,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Fazakerley",
-        url: "/areas/locksmith-in-fazakerley/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-fazakerley/",
         slug: "locksmith-in-fazakerley",
         title: "Locksmith in Fazakerley - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -406,7 +406,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Orrell Park",
-        url: "/areas/locksmith-in-orrell-park/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-orrell-park/",
         slug: "locksmith-in-orrell-park",
         title: "Locksmith in Orrell Park - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -428,7 +428,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Aintree Village",
-        url: "/areas/locksmith-in-aintree-village/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-aintree-village/",
         slug: "locksmith-in-aintree-village",
         title: "Locksmith in Aintree Village - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -450,7 +450,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Clubmoor",
-        url: "/areas/locksmith-in-clubmoor/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-clubmoor/",
         slug: "locksmith-in-clubmoor",
         title: "Locksmith in Clubmoor - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -472,7 +472,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Croxteth",
-        url: "/areas/locksmith-in-croxteth/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-croxteth/",
         slug: "locksmith-in-croxteth",
         title: "Locksmith in Croxteth - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -494,7 +494,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Gillmoss",
-        url: "/areas/locksmith-in-gillmoss/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-gillmoss/",
         slug: "locksmith-in-gillmoss",
         title: "Locksmith in Gillmoss - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -516,7 +516,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Norris Green",
-        url: "/areas/locksmith-in-norris-green/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-norris-green/",
         slug: "locksmith-in-norris-green",
         title: "Locksmith in Norris Green - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -538,7 +538,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Croxteth Park",
-        url: "/areas/locksmith-in-croxteth-park/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-croxteth-park/",
         slug: "locksmith-in-croxteth-park",
         title: "Locksmith in Croxteth Park - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -560,7 +560,7 @@ export default [
         },
         fields: {
         name: "Locksmith in West Derby",
-        url: "/areas/locksmith-in-west-derby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-west-derby/",
         slug: "locksmith-in-west-derby",
         title: "Locksmith in West Derby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -582,7 +582,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Old Swan",
-        url: "/areas/locksmith-in-old-swan/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-old-swan/",
         slug: "locksmith-in-old-swan",
         title: "Locksmith in Old Swan - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -604,7 +604,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Stoneycroft",
-        url: "/areas/locksmith-in-stoneycroft/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-stoneycroft/",
         slug: "locksmith-in-stoneycroft",
         title: "Locksmith in Stoneycroft - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -626,7 +626,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Broadgreen",
-        url: "/areas/locksmith-in-broadgreen/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-broadgreen/",
         slug: "locksmith-in-broadgreen",
         title: "Locksmith in Broadgreen - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -648,7 +648,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Dovecot",
-        url: "/areas/locksmith-in-dovecot/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-dovecot/",
         slug: "locksmith-in-dovecot",
         title: "Locksmith in Dovecot - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -670,7 +670,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Knotty Ash",
-        url: "/areas/locksmith-in-knotty-ash/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-knotty-ash/",
         slug: "locksmith-in-knotty-ash",
         title: "Locksmith in Knotty Ash - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -692,7 +692,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Page Moss",
-        url: "/areas/locksmith-in-page-moss/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-page-moss/",
         slug: "locksmith-in-page-moss",
         title: "Locksmith in Page Moss - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -714,7 +714,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Wavertree",
-        url: "/areas/locksmith-in-wavertree/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-wavertree/",
         slug: "locksmith-in-wavertree",
         title: "Locksmith in Wavertree - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -736,7 +736,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Bowring Park",
-        url: "/areas/locksmith-in-bowring-park/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-bowring-park/",
         slug: "locksmith-in-bowring-park",
         title: "Locksmith in Bowring Park - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -758,7 +758,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Childwall",
-        url: "/areas/locksmith-in-childwall/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-childwall/",
         slug: "locksmith-in-childwall",
         title: "Locksmith in Childwall - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -780,7 +780,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Aigburth",
-        url: "/areas/locksmith-in-aigburth/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-aigburth/",
         slug: "locksmith-in-aigburth",
         title: "Locksmith in Aigburth - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -802,7 +802,7 @@ export default [
         },
         fields: {
         name: "Locksmith in St Michael's Hamlet",
-        url: "/areas/locksmith-in-st-michaels-hamlet/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-st-michaels-hamlet/",
         slug: "locksmith-in-st-michaels-hamlet",
         title: "Locksmith in St Michael's Hamlet - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -824,7 +824,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Sefton Park",
-        url: "/areas/locksmith-in-sefton-park/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-sefton-park/",
         slug: "locksmith-in-sefton-park",
         title: "Locksmith in Sefton Park - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -846,7 +846,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Allerton",
-        url: "/areas/locksmith-in-allerton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-allerton/",
         slug: "locksmith-in-allerton",
         title: "Locksmith in Allerton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -868,7 +868,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Mossley Hill",
-        url: "/areas/locksmith-in-mossley-hill/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-mossley-hill/",
         slug: "locksmith-in-mossley-hill",
         title: "Locksmith in Mossley Hill - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -890,7 +890,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Garston",
-        url: "/areas/locksmith-in-garston/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-garston/",
         slug: "locksmith-in-garston",
         title: "Locksmith in Garston - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -912,7 +912,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Grassendale",
-        url: "/areas/locksmith-in-grassendale/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-grassendale/",
         slug: "locksmith-in-grassendale",
         title: "Locksmith in Grassendale - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -934,7 +934,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Bootle",
-        url: "/areas/locksmith-in-bootle/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-bootle/",
         slug: "locksmith-in-bootle",
         title: "Locksmith in Bootle - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -956,7 +956,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Orrell",
-        url: "/areas/locksmith-in-orrell/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-orrell/",
         slug: "locksmith-in-orrell",
         title: "Locksmith in Orrell - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -978,7 +978,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Ford",
-        url: "/areas/locksmith-in-ford/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-ford/",
         slug: "locksmith-in-ford",
         title: "Locksmith in Ford - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1000,7 +1000,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Litherland",
-        url: "/areas/locksmith-in-litherland/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-litherland/",
         slug: "locksmith-in-litherland",
         title: "Locksmith in Litherland - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1022,7 +1022,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Seaforth",
-        url: "/areas/locksmith-in-seaforth/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-seaforth/",
         slug: "locksmith-in-seaforth",
         title: "Locksmith in Seaforth - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1044,7 +1044,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Waterloo",
-        url: "/areas/locksmith-in-waterloo/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-waterloo/",
         slug: "locksmith-in-waterloo",
         title: "Locksmith in Waterloo - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1066,7 +1066,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Blundellsands",
-        url: "/areas/locksmith-in-blundellsands/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-blundellsands/",
         slug: "locksmith-in-blundellsands",
         title: "Locksmith in Blundellsands - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1088,7 +1088,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Brighton-le-Sands",
-        url: "/areas/locksmith-in-brighton-le-sands/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-brighton-le-sands/",
         slug: "locksmith-in-brighton-le-sands",
         title: "Locksmith in Brighton-le-Sands - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1110,7 +1110,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Crosby",
-        url: "/areas/locksmith-in-crosby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-crosby/",
         slug: "locksmith-in-crosby",
         title: "Locksmith in Crosby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1132,7 +1132,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Little Crosby",
-        url: "/areas/locksmith-in-little-crosby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-little-crosby/",
         slug: "locksmith-in-little-crosby",
         title: "Locksmith in Little Crosby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1154,7 +1154,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Thornton",
-        url: "/areas/locksmith-in-thornton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-thornton/",
         slug: "locksmith-in-thornton",
         title: "Locksmith in Thornton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1176,7 +1176,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Hale",
-        url: "/areas/locksmith-in-hale/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-hale/",
         slug: "locksmith-in-hale",
         title: "Locksmith in Hale - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1198,7 +1198,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Speke",
-        url: "/areas/locksmith-in-speke/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-speke/",
         slug: "locksmith-in-speke",
         title: "Locksmith in Speke - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1220,7 +1220,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Belle Vale",
-        url: "/areas/locksmith-in-belle-vale/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-belle-vale/",
         slug: "locksmith-in-belle-vale",
         title: "Locksmith in Belle Vale - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1242,7 +1242,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Gateacre",
-        url: "/areas/locksmith-in-gateacre/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-gateacre/",
         slug: "locksmith-in-gateacre",
         title: "Locksmith in Gateacre - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1264,7 +1264,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Hunts Cross",
-        url: "/areas/locksmith-in-hunts-cross/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-hunts-cross/",
         slug: "locksmith-in-hunts-cross",
         title: "Locksmith in Hunts Cross - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1286,7 +1286,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Woolton",
-        url: "/areas/locksmith-in-woolton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-woolton/",
         slug: "locksmith-in-woolton",
         title: "Locksmith in Woolton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1308,7 +1308,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Halewood",
-        url: "/areas/locksmith-in-halewood/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-halewood/",
         slug: "locksmith-in-halewood",
         title: "Locksmith in Halewood - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1330,7 +1330,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Netherley",
-        url: "/areas/locksmith-in-netherley/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-netherley/",
         slug: "locksmith-in-netherley",
         title: "Locksmith in Netherley - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1352,7 +1352,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Stockbridge Village",
-        url: "/areas/locksmith-in-stockbridge-village/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-stockbridge-village/",
         slug: "locksmith-in-stockbridge-village",
         title: "Locksmith in Stockbridge Village - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1374,7 +1374,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Lunt",
-        url: "/areas/locksmith-in-lunt/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-lunt/",
         slug: "locksmith-in-lunt",
         title: "Locksmith in Lunt - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1396,7 +1396,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Sefton Village",
-        url: "/areas/locksmith-in-sefton-village/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-sefton-village/",
         slug: "locksmith-in-sefton-village",
         title: "Locksmith in Sefton Village - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1418,7 +1418,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Netherton",
-        url: "/areas/locksmith-in-netherton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-netherton/",
         slug: "locksmith-in-netherton",
         title: "Locksmith in Netherton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1440,7 +1440,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Maghull",
-        url: "/areas/locksmith-in-maghull/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-maghull/",
         slug: "locksmith-in-maghull",
         title: "Locksmith in Maghull - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1462,7 +1462,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Lydiate",
-        url: "/areas/locksmith-in-lydiate/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-lydiate/",
         slug: "locksmith-in-lydiate",
         title: "Locksmith in Lydiate - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1484,7 +1484,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Melling",
-        url: "/areas/locksmith-in-melling/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-melling/",
         slug: "locksmith-in-melling",
         title: "Locksmith in Melling - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1506,7 +1506,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Waddicar",
-        url: "/areas/locksmith-in-waddicar/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-waddicar/",
         slug: "locksmith-in-waddicar",
         title: "Locksmith in Waddicar - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1528,7 +1528,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Kirkby",
-        url: "/areas/locksmith-in-kirkby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-kirkby/",
         slug: "locksmith-in-kirkby",
         title: "Locksmith in Kirkby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1550,7 +1550,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Prescot",
-        url: "/areas/locksmith-in-prescot/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-prescot/",
         slug: "locksmith-in-prescot",
         title: "Locksmith in Prescot - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1572,7 +1572,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Knowsley Village",
-        url: "/areas/locksmith-in-knowsley-village/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-knowsley-village/",
         slug: "locksmith-in-knowsley-village",
         title: "Locksmith in Knowsley Village - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1594,7 +1594,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Whiston",
-        url: "/areas/locksmith-in-whiston/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-whiston/",
         slug: "locksmith-in-whiston",
         title: "Locksmith in Whiston - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1616,7 +1616,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Rainhill",
-        url: "/areas/locksmith-in-rainhill/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-rainhill/",
         slug: "locksmith-in-rainhill",
         title: "Locksmith in Rainhill - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1638,7 +1638,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Huyton",
-        url: "/areas/locksmith-in-huyton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-huyton/",
         slug: "locksmith-in-huyton",
         title: "Locksmith in Huyton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1660,7 +1660,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Roby",
-        url: "/areas/locksmith-in-roby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-roby/",
         slug: "locksmith-in-roby",
         title: "Locksmith in Roby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1682,7 +1682,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Tarbock",
-        url: "/areas/locksmith-in-tarbock/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-tarbock/",
         slug: "locksmith-in-tarbock",
         title: "Locksmith in Tarbock - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1704,7 +1704,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Formby",
-        url: "/areas/locksmith-in-formby/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-formby/",
         slug: "locksmith-in-formby",
         title: "Locksmith in Formby - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1726,7 +1726,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Little Altcar",
-        url: "/areas/locksmith-in-little-altcar/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-little-altcar/",
         slug: "locksmith-in-little-altcar",
         title: "Locksmith in Little Altcar - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1748,7 +1748,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Great Altcar",
-        url: "/areas/locksmith-in-great-altcar/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-great-altcar/",
         slug: "locksmith-in-great-altcar",
         title: "Locksmith in Great Altcar - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1770,7 +1770,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Ince Blundell",
-        url: "/areas/locksmith-in-ince-blundell/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-ince-blundell/",
         slug: "locksmith-in-ince-blundell",
         title: "Locksmith in Ince Blundell - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1792,7 +1792,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Hightown",
-        url: "/areas/locksmith-in-hightown/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-hightown/",
         slug: "locksmith-in-hightown",
         title: "Locksmith in Hightown - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1814,7 +1814,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Ormskirk",
-        url: "/areas/locksmith-in-ormskirk/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-ormskirk/",
         slug: "locksmith-in-ormskirk",
         title: "Locksmith in Ormskirk - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1836,7 +1836,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Aughton",
-        url: "/areas/locksmith-in-aughton/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-aughton/",
         slug: "locksmith-in-aughton",
         title: "Locksmith in Aughton - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1858,7 +1858,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Burscough",
-        url: "/areas/locksmith-in-burscough/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-burscough/",
         slug: "locksmith-in-burscough",
         title: "Locksmith in Burscough - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1880,7 +1880,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Mawdesley",
-        url: "/areas/locksmith-in-mawdesley/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-mawdesley/",
         slug: "locksmith-in-mawdesley",
         title: "Locksmith in Mawdesley - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1902,7 +1902,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Scarisbrick",
-        url: "/areas/locksmith-in-scarisbrick/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-scarisbrick/",
         slug: "locksmith-in-scarisbrick",
         title: "Locksmith in Scarisbrick - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1924,7 +1924,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Rufford",
-        url: "/areas/locksmith-in-rufford/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-rufford/",
         slug: "locksmith-in-rufford",
         title: "Locksmith in Rufford - 24/4 locksmith services in Liverpool",
         featured: false,
@@ -1946,7 +1946,7 @@ export default [
         },
         fields: {
         name: "Locksmith in Holmeswood",
-        url: "/areas/locksmith-in-holmeswood/",
+        url: "https://emergency-locksmith-24.co.uk/areas/locksmith-in-holmeswood/",
         slug: "locksmith-in-holmeswood",
         title: "Locksmith in Holmeswood - 24/4 locksmith services in Liverpool",
         featured: false,
