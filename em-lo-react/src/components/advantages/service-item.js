@@ -5,8 +5,14 @@ import { memo } from "react";
 
 const ServiceItem = memo(({ service }) => {
     const { name, slug } = service;
+
+    function refreshPage(e) {
+        window.location.reload();
+        e.preventDefault();
+    }
+
     return (      
-        <div className="services__item col-md-4">
+        <div className="services__item col-md-4"  onClick={ refreshPage }>
             <Link to={`/services/${slug}`} className="btn-primary service-link">
                 {name}
             </Link>

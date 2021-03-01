@@ -15,7 +15,6 @@ import DropDownText from "../components/drop-down-text";
 export default class SingleArea extends Component {
   constructor(props) {
     super(props);
-    console.log(this.props);
     this.state = {
       slug: this.props.match.params.slug,
       defaultBcg: defaultBcg
@@ -50,7 +49,6 @@ export default class SingleArea extends Component {
       url
     } = area;
     const [main, ...defaultImages] = images;
-    console.log(main);
 
     return (
         <>

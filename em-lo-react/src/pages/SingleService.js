@@ -13,7 +13,6 @@ import Breadcrumbs from "../components/breadcrumbs";
 export default class SingleService extends Component {
     constructor(props) {
         super(props);
-        console.log(this.props);
         this.state = {
         slug: this.props.match.params.slug
         };
