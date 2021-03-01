@@ -21,10 +21,7 @@ export default class SingleArea extends Component {
     };
   }
   static contextType = AreaContext;
-
-  // componentDidMount() {
-  //   console.log(this.props);
-  // }
+  
   render() {
     const { getArea } = this.context;
     const area = getArea(this.state.slug);

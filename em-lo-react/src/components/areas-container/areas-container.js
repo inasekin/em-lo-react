@@ -6,7 +6,9 @@ function AreaContainer({ context }) {
   const { areas } = context;
   return (
     <>
-      <AreasList areas={areas} />
+        <div className="container">
+            <AreasList areas={areas} />
+        </div>
     </>
   );
 }

@@ -2011,7 +2011,7 @@ textarea.input {
 .block-title {
   font-size: 30px;
   font-weight: 900;
-  margin-bottom: 30px;
+  margin-bottom: 60px;
 }
 
 .section {
@@ -3189,8 +3189,27 @@ h2 {
   fill: #456dfe;
 }
 
+.areas-block__slides {
+  display: inline-block;
+}
+
 .areas-block__item {
+  width: 100%;
   overflow: hidden;
+  display: inline-block;
+}
+
+.search-area {
+  text-align: center;
+}
+
+.foo {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  width: 80%;
+  border: 3px solid orange;
+  padding: 20px;
+  border-radius: 5px;
 }
 
 .areas-block__img {
@@ -8223,9 +8242,6 @@ h2 {
   margin-top: 140px;
 }
 
-
-
-
 .areas-block__img {
   position: relative;
   width: 100%;
@@ -8244,4 +8260,11 @@ h2 {
   left: 0;
 }
 
+.content-more .block-title {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
 
+.block-title a:hover {
+  text-decoration: underline;
+}
