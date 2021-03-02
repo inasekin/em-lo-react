@@ -24,7 +24,12 @@ export default [
             title: "Domestic locksmith - 24/4 locksmith services in Liverpool",
             featured: false,
             description: "Domestic locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
-            textcontent: "Domestic locksmith"
+            textcontent: "An accurate opening of locks is the main principle of our work. We use special tools to \n" +
+                "open mechanical, electromechanical and electronic locking systems without damaging \n" +
+                "the door. Even in cases where it is required to open locks integrated into the alarm \n" +
+                "system or equipped with anti-burglary elements, the door will remain intact. Our crew \n" +
+                "knows the nuances of installing locks of all popular brands. Call us, and in less than 30 \n" +
+                "minutes, your door lock will be opened or replaced"
         }
     },
     {

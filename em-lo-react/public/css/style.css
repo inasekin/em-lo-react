@@ -8268,3 +8268,8 @@ h2 {
 .block-title a:hover {
   text-decoration: underline;
 }
+
+.title-uppercase {
+  text-transform: uppercase !important;
+  font-weight: 600;
+}

@@ -6,7 +6,7 @@ import { memo } from "react";
 
 
 const AreasItem = memo(({ area }) => {
-    const { name, slug, images, textcontent } = area;
+    const { name, slug, images } = area;
     // console.log(name);
     return (      
         <div className="col-sm-6 col-md-4 areas-block__item">
@@ -15,7 +15,6 @@ const AreasItem = memo(({ area }) => {
             <img src={images[0] || defaultImg} alt="xxx" />
             </div>
             <h3 className="areas-item-title">{name}</h3>
-            <p>{textcontent}</p>
             </Link>
         </div>
     );
@@ -25,7 +24,7 @@ AreasItem.propTypes = {
     area: PropTypes.shape({
         name: PropTypes.string.isRequired,
         slug: PropTypes.string.isRequired,
-        textcontent: PropTypes.string.isRequired,
+        // textcontent: PropTypes.string.isRequired,
         images: PropTypes.arrayOf(PropTypes.string).isRequired
     })
 };

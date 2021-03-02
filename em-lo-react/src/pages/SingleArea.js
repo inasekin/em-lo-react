@@ -21,7 +21,7 @@ export default class SingleArea extends Component {
     };
   }
   static contextType = AreaContext;
-  
+
   render() {
     const { getArea } = this.context;
     const area = getArea(this.state.slug);
@@ -47,6 +47,10 @@ export default class SingleArea extends Component {
     } = area;
     const [main, ...defaultImages] = images;
 
+      const primaryText = {
+          color: 'red'
+      };
+
     return (
         <>
           <MetaTags>
@@ -64,11 +68,66 @@ export default class SingleArea extends Component {
           </Banner>
 
           <div className="container">
-          <DropDownText titleText={name} text={textcontent}/>
+          <section className="content-more section">
+              <div className="_container">
+                  <h2 className="block-title text--align-center title-uppercase">RELIABLE LOCKSMITHS IN {textcontent}</h2>
+                  <div className="content-more__wrapper">
+                      <div className="content-more__content">
+                          <p>You can reach us day or night by calling <span style={primaryText}> 020 8059 5259</span></p>
+                          <p>We are a local
+                               {textcontent}
+                              locksmith crew providing services around the clock in order to
+                              meet your locking and security needs. Emergency assistance is available around the
+                              clock, including weekends, for performing after burglary repairs or gaining a damage-
+                              free entry to a locked home, car or business premises in the event of a lockout.</p>
+                          <p>A qualified and highly experienced locksmith
+                               {textcontent}
+                              will be with you within just 20
+                              minutes from the moment of your call. He’ll arrive with professional-grade tools and all
+                              the necessary parts for completing tasks of any complexity. You can rest assured
+                              knowing that your property's security is in the hands of a competent local locksmith. We
+                              offer a wide range of services at competitive prices! Speak with the manager for more
+                              information on locksmiths
+                               {textcontent}
+                              offers.</p>
+                          <h2 className="title-uppercase">AFFORDABLE
+                               {textcontent}
+                              LOCKSMITH</h2>
+                          <p>We strive to make sure that every resident can afford Locksmiths
+                               {textcontent}
+                              services and
+                              offer some of the most competitive prices in the area for securing the premises,
+                              installation of safes, locks modernization and more. Regardless of circumstances and
+                              the complexity of work, we aim to beat the prices of competing local companies.
+                              Locksmiths
+                               {textcontent}
+                              provides best quality services for the money. We only use products
+                              manufactured to high-security standards that serve our clients for many years! Any work
+                              is guaranteed, and all products come with a manufacturer’s warranty</p>
+                          <h2 className="title-uppercase">FAST LOCKSMITHS
+                               {textcontent}</h2>
+                          <p>Our rapid response to an emergency, efficiency and unbeatable prices will leave even
+                              the most demanding clients fully satisfied. We take pride in our work and act as a team
+                              to meet your desires and security requirements. Positive feedback from the clients is the
+                              best advertisement for Locksmiths
+                               {textcontent}
+                              . Our experience and knowledge of locking
+                              systems allow us to select and implement the best possible solutions for our clients.
+                              Turning to us, you can be confident in the favourable resolution of all your lock-related
+                              problems. Contact us today, and see for yourself! Call
+                              <span style={primaryText}> 020 8059 5259</span>
+                              at any time.</p>
+                      </div>
+                      <div className="content-more__more">
+                          <a href="#" className="btn btn--primary">More...</a>
+                      </div>
+                  </div>
+              </div>
+          </section>
           </div>
-          <ListOfAreas></ListOfAreas>
+          <ListOfAreas />
           <ContactBlock/>
-          <Footer></Footer>
+          <Footer />
         </>
     );
   }

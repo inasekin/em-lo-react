@@ -1,10 +1,9 @@
 import React from "react";
 import Breadcrumbs from "../components/breadcrumbs";
-import ContactBlock from "../components/contact-block";
 import Footer from "../components/footer";
 import SeoText from "../components/seo-text"
-import Testimonials from "../components/testimonials";
 import MetaTags from 'react-meta-tags';
+import ContactForm from "../components/contact-form";
 
 const About = () => {
 
@@ -21,8 +20,7 @@ return (
         </MetaTags>
         <Breadcrumbs title_breadcrumbs=" About us"/>
         <SeoText />
-        <Testimonials/>
-        <ContactBlock />
+        <ContactForm />
         <Footer />
     </>
     );

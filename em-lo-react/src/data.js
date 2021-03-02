@@ -97,7 +97,7 @@ export default [
         title: "Locksmith in Everton - 24/4 locksmith services in Liverpool",
         featured: false,
         description: "Locksmith in Everton. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
-        textcontent: "Everton",
+        textcontent: " Everton",
         images: [
                 {
                 fields: {

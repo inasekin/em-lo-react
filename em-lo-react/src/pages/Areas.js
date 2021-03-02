@@ -4,19 +4,11 @@ import AreasContainer from "../components/areas-container";
 import ContactBlock from "../components/contact-block";
 import Footer from "../components/footer";
 import MetaTags from 'react-meta-tags';
-import SearchArea from "../components/search-area";
 import items from "../data";
 
 export default class Areas extends Component {
 
-    state = {
-      areas:  items,
-      areasSearch: [],
-      term: ''
-    };
-
     render() {
-        console.log(this.state.areas);
 
         return (
             <div>
@@ -30,8 +22,8 @@ export default class Areas extends Component {
                     <meta property="og:description" content="Areas. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259"/>
                 </MetaTags>
                 <Breadcrumbs title_breadcrumbs="Areas we cover" second_title_breadcrumbs="  "/>
-                <SearchArea />
-                <AreasContainer/>
+
+                <AreasContainer />
                 <ContactBlock/>
                 <Footer/>
             </div>
