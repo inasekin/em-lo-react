@@ -3192,9 +3192,6 @@ h2 {
   fill: #456dfe;
 }
 
-.areas-block__slides {
-  display: inline-block;
-}
 
 .areas-block__item {
   width: 100%;
@@ -8281,4 +8278,8 @@ h2 {
   width: 60%;
   border-radius: 50%;
   height: 100%;
+}
+
+.area-link{
+  display:block;
 }
