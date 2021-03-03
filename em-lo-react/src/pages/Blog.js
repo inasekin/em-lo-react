@@ -17,8 +17,8 @@ return (
         <meta property="og:title" content="Blog - 24/4 locksmith services in Liverpool"/>
         <meta property="og:description" content="Blog. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259"/>
     </MetaTags>
-    <Banner title="Emergency Locksmith 24" features1="24/7, 365 Days a Year" 
-                    features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259"></Banner>
+    <Banner title="Blog Emergency Locksmith 24" features1="24/7, 365 Days a Year"
+                    features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259" />
     <div className="container">
     <h2 className="block-news__heading block-title text--align-center">Our blog</h2>
         <article className="news-box">

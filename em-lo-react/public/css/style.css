@@ -2993,13 +2993,15 @@ h2 {
   display: -ms-flexbox;
   display: flex;
   font-size: 18px;
-  margin-bottom: 15px;
 }
 
 .testimonial__author {
   font-weight: 600;
   color: black;
   margin-right: 20px;
+  position: relative;
+  top: 15px;
+  right: 22px;
 }
 
 .testimonial__date {
@@ -3009,6 +3011,7 @@ h2 {
 .testimonial__body {
   color: #434343;
   line-height: 20px;
+  margin-top: 10px;
 }
 
 .location__name {
@@ -8272,4 +8275,10 @@ h2 {
 .title-uppercase {
   text-transform: uppercase !important;
   font-weight: 600;
+}
+
+.testimonial__img img {
+  width: 60%;
+  border-radius: 50%;
+  height: 100%;
 }

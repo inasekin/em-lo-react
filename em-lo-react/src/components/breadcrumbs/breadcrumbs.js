@@ -3,10 +3,8 @@ import React from "react";
 const Breadcrumbs = ({ title_breadcrumbs, second_title_breadcrumbs, title_of_breadcrumbs }) => {
 
     if(second_title_breadcrumbs === "") {
-        console.log(0);
         second_title_breadcrumbs = " "
     } else {
-        console.log(1)
         second_title_breadcrumbs = `\0 -- ${second_title_breadcrumbs}`
     }
 
