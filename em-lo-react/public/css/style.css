@@ -3184,7 +3184,7 @@ h2 {
 
 .map-district-path {
   stroke: white;
-  stroke-width: 1px;
+  strokeWidth: 1px;
   fill: #ff8e26;
 }
 
