@@ -21,8 +21,7 @@ export default class Areas extends Component {
                     <meta property="og:title" content="Areas - 24/4 locksmith services in Liverpool"/>
                     <meta property="og:description" content="Areas. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259"/>
                 </MetaTags>
-                <Breadcrumbs title_breadcrumbs="Areas we cover" second_title_breadcrumbs="  "/>
-
+                <Breadcrumbs title_of_breadcrumbs="Areas we cover" title_breadcrumbs="Areas we cover" second_title_breadcrumbs=""/>
                 <AreasContainer />
                 <ContactBlock/>
                 <Footer/>

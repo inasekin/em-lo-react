@@ -20,7 +20,7 @@ const Services = () => {
                 <meta property="og:title" content="All locksmith services - 24/4 locksmith services in Liverpool"/>
                 <meta property="og:description" content="All locksmith services. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259"/>
             </MetaTags>           
-            <Breadcrumbs title_breadcrumbs=" All services"/>
+            <Breadcrumbs title_of_breadcrumbs="All services" title_breadcrumbs=" All services" second_title_breadcrumbs=""/>
             <DropDownText titleText="Service title" text="Some text here"/>
             <Advantages />
             <Testimonials />

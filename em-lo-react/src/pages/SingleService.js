@@ -56,14 +56,14 @@ export default class SingleService extends Component {
                 <meta property="og:title" content={title}/>
                 <meta property="og:description" content={description}/>
             </MetaTags>
-            <Breadcrumbs title_breadcrumbs="All Services" second_title_breadcrumbs={`-- ${name}`}/>
+            <Breadcrumbs title_of_breadcrumbs={name} title_breadcrumbs=" All services " second_title_breadcrumbs={name}/>
             <div className="container">
             <DropDownText titleText={name} text={textcontent}/>
             </div>
             <Advantages />
             <Testimonials />
             <ContactForm />
-            <Footer></Footer>
+            <Footer/>
             </>
         );
     }
