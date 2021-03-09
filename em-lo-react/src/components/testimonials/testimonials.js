@@ -45,7 +45,22 @@ const Testimonials = () => {
           <div className="_container">
           <h2 className="block-title text--align-center">Testimonials</h2>
           <div className="testimonials__items testimonials-slider">
-            <Swiper {...params}>
+            <Swiper {...params}  breakpoints={{
+              320: {
+                width: 300,
+                slidesPerView: 1,
+              },
+              // when window width is >= 640px
+              640: {
+                width: 640,
+                slidesPerView: 2,
+              },
+              // when window width is >= 768px
+              768: {
+                width: 768,
+                slidesPerView: 3,
+              },
+            }}>
               <div className="testimonials__item">
                 <div className="testimonial">
                   <div className="testimonial__header">

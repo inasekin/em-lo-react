@@ -7878,6 +7878,17 @@ h2 {
   }
 }
 
+@media (max-width: 991.98px) {
+  .map-block__contacts {
+    padding: 35px;
+    max-width: 400px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
+}
+
 @media (max-width: 767.98px) {
   ._container {
     max-width: none;
@@ -7928,6 +7939,14 @@ h2 {
     top: 10px;
     right: 20px;
   }
+  .map-block__contacts {
+    padding: 35px;
+    max-width: 300px;
+    padding-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
 }
 
 @media (max-width: 479.98px) {
