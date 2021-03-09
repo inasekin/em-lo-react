@@ -371,7 +371,7 @@ export default [
         slug: "locksmith-in-toxteth",
         title: "Locksmith in Toxteth - 24/4 locksmith services in Liverpool",
         featured: false,
-        areaNumber: 8,
+        areaNumber0: 8,
         description: "Locksmith in Toxteth. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Toxteth",
         images: [
