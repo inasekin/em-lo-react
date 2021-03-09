@@ -96,6 +96,9 @@ export default [
         slug: "locksmith-in-everton",
         title: "Locksmith in Everton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 3,
+        areaNumber: 5,
+        areaNumber: 6,
         description: "Locksmith in Everton. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Everton",
         images: [
@@ -119,6 +122,8 @@ export default [
         slug: "locksmith-in-vauxhal",
         title: "Locksmith in Vauxhal - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 3,
+        areaNumber: 5,
         description: "Locksmith in Vauxhal. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Vauxhal",
         images: [
@@ -142,6 +147,9 @@ export default [
         slug: "locksmith-in-anfield",
         title: "Locksmith in Anfield - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 4,
+        areaNumber: 5,
+        areaNumber: 6,
         description: "Locksmith in Anfield. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Anfield",
         images: [
@@ -165,6 +173,12 @@ export default [
         slug: "locksmith-in-city-centre",
         title: "Locksmith in City Centre - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 1,
+        areaNumber: 2,
+        areaNumber: 3,
+        areaNumber: 6,
+        areaNumber: 7,
+        areaNumber: 8,
         description: "Locksmith in City Centre. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Locksmith in City Centre",
         images: [
@@ -188,6 +202,9 @@ export default [
         slug: "locksmith-in-kirkdale",
         title: "Locksmith in Kirkdale - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 4,
+        areaNumber: 5,
+        areaNumber: 20,
         description: "Locksmith in Kirkdale. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Kirkdale",
         images: [
@@ -210,6 +227,8 @@ export default [
         slug: "locksmith-in-walton",
         title: "Locksmith in Walton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 4,
+        areaNumber: 9,
         description: "Locksmith in Walton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Walton",
         images: [
@@ -233,6 +252,8 @@ export default [
         slug: "locksmith-in-fairfield",
         title: "Locksmith in Fairfield - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 6,
+        areaNumber: 7,
         description: "Locksmith in Fairfield. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Fairfield",
         images: [
@@ -255,6 +276,8 @@ export default [
         slug: "locksmith-in-kensington",
         title: "Locksmith in Kensington - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 6,
+        areaNumber: 7,
         description: "Locksmith in Kensington. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Kensington",
         images: [
@@ -277,6 +300,8 @@ export default [
         slug: "locksmith-in-tuebrook",
         title: "Locksmith in Tuebrook - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 6,
+        areaNumber: 13,
         description: "Locksmith in Tuebrook. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Tuebrook",
         images: [
@@ -299,6 +324,7 @@ export default [
         slug: "locksmith-in-edge-hill",
         title: "Locksmith in Edge Hill - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 7,
         description: "Locksmith in Edge Hill. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Edge Hill",
         images: [
@@ -321,6 +347,7 @@ export default [
         slug: "locksmith-in-dingle",
         title: "Locksmith in Dingle - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 8,
         description: "Locksmith in Dingle. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Dingle",
         images: [
@@ -344,6 +371,7 @@ export default [
         slug: "locksmith-in-toxteth",
         title: "Locksmith in Toxteth - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 8,
         description: "Locksmith in Toxteth. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Toxteth",
         images: [
@@ -366,6 +394,8 @@ export default [
         slug: "locksmith-in-aintree",
         title: "Locksmith in Aintree - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 9,
+        areaNumber: 10,
         description: "Locksmith in Aintree. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Aintree",
         images: [
@@ -388,6 +418,8 @@ export default [
         slug: "locksmith-in-fazakerley",
         title: "Locksmith in Fazakerley - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 9,
+        areaNumber: 10,
         description: "Locksmith in Fazakerley. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Fazakerley",
         images: [
@@ -410,6 +442,7 @@ export default [
         slug: "locksmith-in-orrell-park",
         title: "Locksmith in Orrell Park - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 9,
         description: "Locksmith in Orrell Park. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Orrell Park",
         images: [
@@ -432,6 +465,7 @@ export default [
         slug: "locksmith-in-aintree-village",
         title: "Locksmith in Aintree Village - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 10,
         description: "Locksmith in Aintree Village. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Aintree Village",
         images: [
@@ -454,6 +488,8 @@ export default [
         slug: "locksmith-in-clubmoor",
         title: "Locksmith in Clubmoor - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 11,
+        areaNumber: 13,
         description: "Locksmith in Clubmoor. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Clubmoor",
         images: [
@@ -476,6 +512,8 @@ export default [
         slug: "locksmith-in-croxteth",
         title: "Locksmith in Croxteth - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 11,
+        areaNumber: 12,
         description: "Locksmith in Croxteth. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Croxteth",
         images: [
@@ -498,6 +536,7 @@ export default [
         slug: "locksmith-in-gillmoss",
         title: "Locksmith in Gillmoss - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 11,
         description: "Locksmith in Gillmoss. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Gillmoss",
         images: [
@@ -520,6 +559,7 @@ export default [
         slug: "locksmith-in-norris-green",
         title: "Locksmith in Norris Green - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 11,
         description: "Locksmith in Norris Green. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Norris Green",
         images: [
@@ -542,6 +582,7 @@ export default [
         slug: "locksmith-in-croxteth-park",
         title: "Locksmith in Croxteth Park - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 12,
         description: "Locksmith in Croxteth Park. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Croxteth Park",
         images: [
@@ -564,6 +605,7 @@ export default [
         slug: "locksmith-in-west-derby",
         title: "Locksmith in West Derby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 12,
         description: "Locksmith in West Derby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " West Derby",
         images: [
@@ -586,6 +628,7 @@ export default [
         slug: "locksmith-in-old-swan",
         title: "Locksmith in Old Swan - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 13,
         description: "Locksmith in Old Swan. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Old Swan",
         images: [
@@ -608,6 +651,7 @@ export default [
         slug: "locksmith-in-stoneycroft",
         title: "Locksmith in Stoneycroft - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 13,
         description: "Locksmith in Stoneycroft. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Stoneycroft",
         images: [
@@ -630,6 +674,8 @@ export default [
         slug: "locksmith-in-broadgreen",
         title: "Locksmith in Broadgreen - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 14,
+        areaNumber: 16,
         description: "Locksmith in Broadgreen. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Broadgreen",
         images: [
@@ -652,6 +698,7 @@ export default [
         slug: "locksmith-in-dovecot",
         title: "Locksmith in Dovecot - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 14,
         description: "Locksmith in Dovecot. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Dovecot",
         images: [
@@ -674,6 +721,7 @@ export default [
         slug: "locksmith-in-knotty-ash",
         title: "Locksmith in Knotty Ash - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 14,
         description: "Locksmith in Knotty Ash. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Knotty Ash",
         images: [
@@ -696,6 +744,7 @@ export default [
         slug: "locksmith-in-page-moss",
         title: "Locksmith in Page Moss - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 14,
         description: "Locksmith in Page Moss. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Page Moss",
         images: [
@@ -718,6 +767,7 @@ export default [
         slug: "locksmith-in-wavertree",
         title: "Locksmith in Wavertree - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 15,
         description: "Locksmith in Wavertree. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Wavertree",
         images: [
@@ -740,6 +790,7 @@ export default [
         slug: "locksmith-in-bowring-park",
         title: "Locksmith in Bowring Park - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 16,
         description: "Locksmith in Bowring Park. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Bowring Park",
         images: [
@@ -762,6 +813,7 @@ export default [
         slug: "locksmith-in-childwall",
         title: "Locksmith in Childwall - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 16,
         description: "Locksmith in Childwall. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Childwall",
         images: [
@@ -784,6 +836,8 @@ export default [
         slug: "locksmith-in-aigburth",
         title: "Locksmith in Aigburth - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 17,
+        areaNumber: 19,
         description: "Locksmith in Aigburth. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Aigburth",
         images: [
@@ -806,6 +860,7 @@ export default [
         slug: "locksmith-in-st-michaels-hamlet",
         title: "Locksmith in St Michael's Hamlet - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 17,
         description: "Locksmith in St Michael's Hamlet. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " St Michael's Hamlet",
         images: [
@@ -828,6 +883,7 @@ export default [
         slug: "locksmith-in-sefton-park",
         title: "Locksmith in Sefton Park - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 17,
         description: "Locksmith in Sefton Park. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Sefton Park",
         images: [
@@ -850,6 +906,7 @@ export default [
         slug: "locksmith-in-allerton",
         title: "Locksmith in Allerton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 18,
         description: "Locksmith in Allerton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Allerton",
         images: [
@@ -872,6 +929,7 @@ export default [
         slug: "locksmith-in-mossley-hill",
         title: "Locksmith in Mossley Hill - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 18,
         description: "Locksmith in Mossley Hill. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Mossley Hill",
         images: [
@@ -894,6 +952,7 @@ export default [
         slug: "locksmith-in-garston",
         title: "Locksmith in Garston - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 19,
         description: "Locksmith in Garston. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Garston",
         images: [
@@ -916,6 +975,7 @@ export default [
         slug: "locksmith-in-grassendale",
         title: "Locksmith in Grassendale - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 19,
         description: "Locksmith in Grassendale. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Grassendale",
         images: [
@@ -938,6 +998,8 @@ export default [
         slug: "locksmith-in-bootle",
         title: "Locksmith in Bootle - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 20,
+        areaNumber: 30,
         description: "Locksmith in Bootle. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Bootle",
         images: [
@@ -960,6 +1022,7 @@ export default [
         slug: "locksmith-in-orrell",
         title: "Locksmith in Orrell - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 20,
         description: "Locksmith in Orrell. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Orrell",
         images: [
@@ -982,6 +1045,7 @@ export default [
         slug: "locksmith-in-ford",
         title: "Locksmith in Ford - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 21,
         description: "Locksmith in Ford. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Ford",
         images: [
@@ -1004,6 +1068,7 @@ export default [
         slug: "locksmith-in-litherland",
         title: "Locksmith in Litherland - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 21,
         description: "Locksmith in Litherland. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Litherland",
         images: [
@@ -1026,6 +1091,7 @@ export default [
         slug: "locksmith-in-seaforth",
         title: "Locksmith in Seaforth - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 21,
         description: "Locksmith in Seaforth. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Seaforth",
         images: [
@@ -1048,6 +1114,7 @@ export default [
         slug: "locksmith-in-waterloo",
         title: "Locksmith in Waterloo - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 22,
         description: "Locksmith in Waterloo. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Waterloo",
         images: [
@@ -1070,6 +1137,7 @@ export default [
         slug: "locksmith-in-blundellsands",
         title: "Locksmith in Blundellsands - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 23,
         description: "Locksmith in Blundellsands. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Blundellsands",
         images: [
@@ -1092,6 +1160,7 @@ export default [
         slug: "locksmith-in-brighton-le-sands",
         title: "Locksmith in Brighton-le-Sands - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 23,
         description: "Locksmith in Brighton-le-Sands. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Brighton-le-Sands",
         images: [
@@ -1114,6 +1183,7 @@ export default [
         slug: "locksmith-in-crosby",
         title: "Locksmith in Crosby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 23,
         description: "Locksmith in Crosby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Crosby",
         images: [
@@ -1136,6 +1206,7 @@ export default [
         slug: "locksmith-in-little-crosby",
         title: "Locksmith in Little Crosby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 23,
         description: "Locksmith in Little Crosby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Little Crosby",
         images: [
@@ -1158,6 +1229,7 @@ export default [
         slug: "locksmith-in-thornton",
         title: "Locksmith in Thornton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 23,
         description: "Locksmith in Thornton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Thornton",
         images: [
@@ -1180,6 +1252,7 @@ export default [
         slug: "locksmith-in-hale",
         title: "Locksmith in Hale - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 24,
         description: "Locksmith in Hale. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Hale",
         images: [
@@ -1202,6 +1275,7 @@ export default [
         slug: "locksmith-in-speke",
         title: "Locksmith in Speke - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 24,
         description: "Locksmith in Speke. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Speke",
         images: [
@@ -1224,6 +1298,7 @@ export default [
         slug: "locksmith-in-belle-vale",
         title: "Locksmith in Belle Vale - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 25,
         description: "Locksmith in Belle Vale. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Belle Vale",
         images: [
@@ -1246,6 +1321,7 @@ export default [
         slug: "locksmith-in-gateacre",
         title: "Locksmith in Gateacre - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 25,
         description: "Locksmith in Gateacre. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Gateacre",
         images: [
@@ -1268,6 +1344,7 @@ export default [
         slug: "locksmith-in-hunts-cross",
         title: "Locksmith in Hunts Cross - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 25,
         description: "Locksmith in Hunts Cross. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Hunts Cross",
         images: [
@@ -1290,6 +1367,7 @@ export default [
         slug: "locksmith-in-woolton",
         title: "Locksmith in Woolton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 25,
         description: "Locksmith in Woolton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Woolton",
         images: [
@@ -1312,6 +1390,8 @@ export default [
         slug: "locksmith-in-halewood",
         title: "Locksmith in Halewood - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 25,
+        areaNumber: 26,
         description: "Locksmith in Halewood. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Halewood",
         images: [
@@ -1334,6 +1414,7 @@ export default [
         slug: "locksmith-in-netherley",
         title: "Locksmith in Netherley - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 27,
         description: "Locksmith in Netherley. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Netherley",
         images: [
@@ -1356,6 +1437,7 @@ export default [
         slug: "locksmith-in-stockbridge-village",
         title: "Locksmith in Stockbridge Village - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 28,
         description: "Locksmith in Stockbridge Village. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Stockbridge Village",
         images: [
@@ -1378,6 +1460,7 @@ export default [
         slug: "locksmith-in-lunt",
         title: "Locksmith in Lunt - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 29,
         description: "Locksmith in Lunt. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Lunt",
         images: [
@@ -1400,6 +1483,7 @@ export default [
         slug: "locksmith-in-sefton-village",
         title: "Locksmith in Sefton Village - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 29,
         description: "Locksmith in Sefton Village. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Sefton Village",
         images: [
@@ -1422,6 +1506,7 @@ export default [
         slug: "locksmith-in-netherton",
         title: "Locksmith in Netherton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 30,
         description: "Locksmith in Netherton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Netherton",
         images: [
@@ -1444,6 +1529,7 @@ export default [
         slug: "locksmith-in-maghull",
         title: "Locksmith in Maghull - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 31,
         description: "Locksmith in Maghull. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Maghull",
         images: [
@@ -1466,6 +1552,7 @@ export default [
         slug: "locksmith-in-lydiate",
         title: "Locksmith in Lydiate - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 31,
         description: "Locksmith in Lydiate. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Lydiate",
         images: [
@@ -1488,6 +1575,7 @@ export default [
         slug: "locksmith-in-melling",
         title: "Locksmith in Melling - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 31,
         description: "Locksmith in Melling. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Melling",
         images: [
@@ -1510,6 +1598,7 @@ export default [
         slug: "locksmith-in-waddicar",
         title: "Locksmith in Waddicar - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 31,
         description: "Locksmith in Waddicar. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Waddicar",
         images: [
@@ -1532,6 +1621,8 @@ export default [
         slug: "locksmith-in-kirkby",
         title: "Locksmith in Kirkby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 32,
+        areaNumber: 33,
         description: "Locksmith in Kirkby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Kirkby",
         images: [
@@ -1554,6 +1645,8 @@ export default [
         slug: "locksmith-in-prescot",
         title: "Locksmith in Prescot - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 34,
+        areaNumber: 35,
         description: "Locksmith in Prescot. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Prescot",
         images: [
@@ -1576,6 +1669,7 @@ export default [
         slug: "locksmith-in-knowsley-village",
         title: "Locksmith in Knowsley Village - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 34,
         description: "Locksmith in Knowsley Village. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Knowsley Village",
         images: [
@@ -1598,6 +1692,7 @@ export default [
         slug: "locksmith-in-whiston",
         title: "Locksmith in Whiston - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 35,
         description: "Locksmith in Whiston. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Whiston",
         images: [
@@ -1620,6 +1715,7 @@ export default [
         slug: "locksmith-in-rainhill",
         title: "Locksmith in Rainhill - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 35,
         description: "Locksmith in Rainhill. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Rainhill",
         images: [
@@ -1642,6 +1738,7 @@ export default [
         slug: "locksmith-in-huyton",
         title: "Locksmith in Huyton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 36,
         description: "Locksmith in Huyton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Huyton",
         images: [
@@ -1664,6 +1761,7 @@ export default [
         slug: "locksmith-in-roby",
         title: "Locksmith in Roby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 36,
         description: "Locksmith in Roby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Roby",
         images: [
@@ -1686,6 +1784,7 @@ export default [
         slug: "locksmith-in-tarbock",
         title: "Locksmith in Tarbock - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 36,
         description: "Locksmith in Tarbock. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Tarbock",
         images: [
@@ -1708,6 +1807,7 @@ export default [
         slug: "locksmith-in-formby",
         title: "Locksmith in Formby - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 37,
         description: "Locksmith in Formby. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Formby",
         images: [
@@ -1730,6 +1830,7 @@ export default [
         slug: "locksmith-in-little-altcar",
         title: "Locksmith in Little Altcar - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 37,
         description: "Locksmith in Little Altcar. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Little Altcar",
         images: [
@@ -1752,6 +1853,7 @@ export default [
         slug: "locksmith-in-great-altcar",
         title: "Locksmith in Great Altcar - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 37,
         description: "Locksmith in Great Altcar. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Great Altcar",
         images: [
@@ -1774,6 +1876,7 @@ export default [
         slug: "locksmith-in-ince-blundell",
         title: "Locksmith in Ince Blundell - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 38,
         description: "Locksmith in Ince Blundell. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Ince Blundell",
         images: [
@@ -1796,6 +1899,7 @@ export default [
         slug: "locksmith-in-hightown",
         title: "Locksmith in Hightown - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 38,
         description: "Locksmith in Hightown. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Hightown",
         images: [
@@ -1818,6 +1922,7 @@ export default [
         slug: "locksmith-in-ormskirk",
         title: "Locksmith in Ormskirk - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 39,
         description: "Locksmith in Ormskirk. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Ormskirk",
         images: [
@@ -1840,6 +1945,7 @@ export default [
         slug: "locksmith-in-aughton",
         title: "Locksmith in Aughton - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 39,
         description: "Locksmith in Aughton. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Aughton",
         images: [
@@ -1862,6 +1968,7 @@ export default [
         slug: "locksmith-in-burscough",
         title: "Locksmith in Burscough - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 40,
         description: "Locksmith in Burscough. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Burscough",
         images: [
@@ -1884,6 +1991,7 @@ export default [
         slug: "locksmith-in-mawdesley",
         title: "Locksmith in Mawdesley - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 40,
         description: "Locksmith in Mawdesley. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Mawdesley",
         images: [
@@ -1906,6 +2014,7 @@ export default [
         slug: "locksmith-in-scarisbrick",
         title: "Locksmith in Scarisbrick - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 40,
         description: "Locksmith in Scarisbrick. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Scarisbrick",
         images: [
@@ -1928,6 +2037,7 @@ export default [
         slug: "locksmith-in-rufford",
         title: "Locksmith in Rufford - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 40,
         description: "Locksmith in Rufford. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Rufford",
         images: [
@@ -1950,6 +2060,7 @@ export default [
         slug: "locksmith-in-holmeswood",
         title: "Locksmith in Holmeswood - 24/4 locksmith services in Liverpool",
         featured: false,
+        areaNumber: 40,
         description: "Locksmith in Holmeswood. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
         textcontent: " Holmeswood",
         images: [
