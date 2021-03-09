@@ -8302,3 +8302,21 @@ h2 {
 .area-link{
   display:block;
 }
+.sitemap-content {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  transition: all .2s;
+}
+
+.sitemap-content a {
+  display: block;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.sitemap-content a:hover {
+  color: #ff8e26;
+}
