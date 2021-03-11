@@ -96,9 +96,7 @@ export default [
         slug: "locksmith-in-everton",
         title: "Locksmith in Everton - 24/4 locksmith services in Liverpool",
         featured: false,
-        areaNumber0: 3,
-        areaNumber1: 5,
-        areaNumber2: 6,
+        areaNumbers: [3, 5, 6],
         description: "Locksmith in Everton. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Everton",
         images: [
@@ -122,8 +120,7 @@ export default [
         slug: "locksmith-in-vauxhal",
         title: "Locksmith in Vauxhal - 24/4 locksmith services in Liverpool",
         featured: false,
-        areaNumber0: 3,
-        areaNumber1: 5,
+        areaNumbers: [3, 5],
         description: "Locksmith in Vauxhal. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Vauxhal",
         images: [
@@ -147,9 +144,7 @@ export default [
         slug: "locksmith-in-anfield",
         title: "Locksmith in Anfield - 24/4 locksmith services in Liverpool",
         featured: false,
-        areaNumber0: 4, // TODO : fix
-        areaNumber1: 5,
-        areaNumber2: 6,
+        areaNumbers: [4, 5, 6],
         description: "Locksmith in Anfield. 24 hours a day, 7 days a week locksmith services in Liverpool.    High rated locksmiths.    Call Locksmiths now.    020 8059 5259 ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259☎ 020 8059 5259",
         textcontent: " Anfield",
         images: [

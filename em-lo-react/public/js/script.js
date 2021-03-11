@@ -40,43 +40,6 @@ jQuery(document).ready(function() {
     
 });
 
- // Modals
-
- function closeModal(modal) {
-    if (!modal.hasClass('modal--hidden')) {
-       modal.addClass('modal--hidden');
-    }
-  }
-  
-  function openModal(modal) {
-    if (modal.hasClass('modal--hidden')) {
-       modal.removeClass('modal--hidden');
-    }
-  }
-  
-  jQuery(document).ready(function() {
-    $('.modal').each(function() {
-       let modal = $(this);
-       modal.find('.modal__close').click(function() {
-          closeModal(modal);
-       });
-       
-    });
-
-    $('#interactive-map g').click(function() {
-        openModal($('.areas-map-block__modal'));
-        return false;
-    });
-    
-  });
-  
-  
-  document.addEventListener('keydown', function (e) {
-  
-    if (e.key === 'Escape') {
-        $('.modal').addClass('modal--hidden');
-    }
-  });
 var ua = window.navigator.userAgent;
 var msie = ua.indexOf("MSIE ");
 var isMobile = { Android: function () { return navigator.userAgent.match(/Android/i); }, BlackBerry: function () { return navigator.userAgent.match(/BlackBerry/i); }, iOS: function () { return navigator.userAgent.match(/iPhone|iPad|iPod/i); }, Opera: function () { return navigator.userAgent.match(/Opera Mini/i); }, Windows: function () { return navigator.userAgent.match(/IEMobile/i); }, any: function () { return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows()); } };

@@ -4,7 +4,6 @@ import AreasContainer from "../components/areas-container";
 import ContactBlock from "../components/contact-block";
 import Footer from "../components/footer";
 import MetaTags from 'react-meta-tags';
-import items from "../data";
 
 export default class Areas extends Component {
 
