@@ -8281,7 +8281,7 @@ h2 {
 
 .content-more .block-title {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 
 .block-title a:hover {
@@ -8319,4 +8319,18 @@ h2 {
 
 .sitemap-content a:hover {
   color: #ff8e26;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.site-link {
+  color: #ff8e26 !important;
+  text-decoration: underline;
+  cursor: pointer;
 }

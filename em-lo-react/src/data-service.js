@@ -210,7 +210,7 @@ export default [{
             title: "Window lock repair - 24/4 locksmith services in Liverpool",
             featured: false,
             description: "Window lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
-            textcontent: "Window lock repair"
+            textcontent: ""
         }
     },
     {

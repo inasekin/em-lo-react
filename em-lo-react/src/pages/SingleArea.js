@@ -9,7 +9,6 @@ import Footer from "../components/footer";
 import { Link } from "react-router-dom";
 import { AreaContext } from "../context";
 import ContactBlock from "../components/contact-block";
-import DropDownText from "../components/drop-down-text";
 
 
 export default class SingleArea extends Component {
@@ -42,22 +41,25 @@ export default class SingleArea extends Component {
       description,
       textcontent,
       title,
-      images,
       url
     } = area;
-    const [main, ...defaultImages] = images;
 
       const primaryText = {
           color: 'red'
       };
+
+      const mainUrl = {
+          siteUrl: 'https://emergency-locksmith-24.co.uk'
+      }
 
     return (
         <>
           <MetaTags>
             <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
             <title>{title}</title>
+              <link rel="canonical" href={mainUrl.siteUrl + url} />
             <meta id="meta-description" name="description" content={description} />
-            <meta property="og:url" content={url}/>
+            <meta property="og:url" content={mainUrl.siteUrl + url}/>
             <meta property="og:type" content="page"/>
             <meta property="og:title" content={title}/>
             <meta property="og:description" content={description}/>

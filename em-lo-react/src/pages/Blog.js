@@ -11,6 +11,7 @@ return (
     <MetaTags>
         <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
         <title>Blog - 24/4 locksmith services in Liverpool</title>
+        <link rel="canonical" href="https://emergency-locksmith-24.co.uk/blog/" />
         <meta id="meta-description" name="description" content="Blog. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259" />
         <meta property="og:url" content="https://emergency-locksmith-24.co.uk/blog/"/>
         <meta property="og:type" content="page"/>
