@@ -57,7 +57,7 @@ export default class SingleService extends Component {
                 content();
 
                 function content() {
-                    document.getElementById("content-service").innerHTML =
+                    document.getElementById("content-service").innerHTML =  '<h2 class="block-title">Window Lock Change Fitting and Installation in Liverpool</h2>' +
                         '<p class="text-center">Want to upgrade your window locking mechanism and protect your home from burglars?<br/>' +
                         'Do you want to protect children from falling out of the window opening?<br/>' +
                         'Is your window mechanism defective and would you like to replace it?<br/>' +
@@ -141,6 +141,43 @@ export default class SingleService extends Component {
             }
         }
 
+        if (url === "https://emergency-locksmith-24.co.uk/services/garage-door-lock-repair/" ||
+            url === "https://emergency-locksmith-24.co.uk/services/garage-door-lock-change/" ||
+            url === "https://emergency-locksmith-24.co.uk/services/garage-door-lock-installation/")
+        {
+            window.onload = function() {
+                console.log(123)
+                content();
+
+                function content() {
+                    document.getElementById("content-service").innerHTML = '<h2 class="block-title">Garage door locksmith</h2>' +
+                        '<p>We offer prompt services for emergency garage opening, repairing and replacing garage locks. Our craftsmen provide 24-hour qualified assistance and will be able to open the doors of any garage.</p>' +
+                        '<h2 class="block-title">Emergency opening of a garage lock</h2>' +
+                        '<p>Have an unexpected situation? Can\'t open your garage and need a car urgently? Unfortunately, such situations occasionally happen, regardless of the garage doors and locks quality. </p>' +
+                        '<p>The main causes of garage door breakage are:</p>' +
+                        '<ul>' +
+                        '   <li>●\tjammed garage lock;</li>' +
+                        '   <li>●\tjammed or skewed garage door;</li>' +
+                        '   <li>●\tyou have lost your keys or they have been stolen;</li>' +
+                        '   <li>●\tthe lock is frozen because of the extremely cold weather;</li>' +
+                        '</ul>' +
+                        '<p>Any attempt to open the garage lock yourself will lead to inevitable damage to garage doors, hinges, or the lock itself. Our professional locksmith will help you to open the garage quickly and without any damage. </p>' +
+                        '<p>But in case of opening your garage by our specialist, you will need to provide documents confirming the ownership or rental of the garage. Besides, if you have a car in the garage, you will need documents for it, and identity documents also. After you have presented the documents, our locksmith will open the garage doors as quickly as possible and without damage using the most modern professional tools.</p>' +
+                        '<p>Emergency opening of your garage by a professional will save you from wasting time and repairing the garage after self-opening. Our locksmiths are highly experienced and will help you open the garage 24/7.</p>' +
+                        '<h2 class="block-title mt-50">Garage door locks repair</h2>' +
+                        '<p>The load and external impact on garage locks is much greater than on ordinary home locks because there is a constant influence of the environment; distortions of garage doors due to temperature changes and precipitation or burglar break-in, and many other factors.</p>' +
+                        '<p>Never try to repair the lock yourself (this can lead to a complete breakdown of the lock mechanisms), or replace it yourself (this will also have consequences, the door can be damaged). </p>' +
+                        '<p>By contacting our specialists, your problem will be solved guaranteed within an hour. The locksmith will arrive to you within 30 minutes, and no more than the same time will take him to carry out repair work. He will have all the necessary tools with him. </p>' +
+                        '<h2 class="block-title mt-50">Garage door locks installation</h2>' +
+                        '<p>The garage lock has certain differences from traditional models and it is extremely important to install the device correctly, its protective properties will depend on it. A high-quality lock, which is correctly installed, and which can be opened from the inside, for example, only with a key, will become a trap for a burglar. Even if he manages to enter the garage through the roof, he cannot simply exit through the door. </p>' +
+                        '<p>Besides, such construction is adapted to harsh weather conditions, and also has some protection against external force action. That is why it is especially important to install it correctly. </p>' +
+                        '<p>Our specialists have extensive experience in the installation of locking mechanisms of any type, they know how to fix the structure correctly and provide maximum security for your property.</p>' +
+                        '<p>Call us now to make an inquiry, and we will offer you the best prices!</p>' +
+                        '<a href="tel:02080595259" class="site-link">02080595259</a>'
+                }
+            }
+        }
+
         return (
             <>
             <MetaTags>
@@ -155,7 +192,7 @@ export default class SingleService extends Component {
             </MetaTags>
             <Breadcrumbs title_of_breadcrumbs={name} title_breadcrumbs=" All services " second_title_breadcrumbs={name}/>
             <div className="container">
-            <DropDownText titleText="Window Lock Change Fitting and Installation in Liverpool" text={textcontent}/>
+            <DropDownText text={textcontent}/>
             </div>
             <Advantages />
             <Testimonials />

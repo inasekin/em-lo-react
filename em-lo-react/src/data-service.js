@@ -252,7 +252,7 @@ export default [{
             title: "Garage door lock repair - 24/4 locksmith services in Liverpool",
             featured: false,
             description: "Garage door lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
-            textcontent: "Garage door lock repair"
+            textcontent: ""
         }
     },
     {
@@ -266,7 +266,7 @@ export default [{
             title: "Garage door lock change - 24/4 locksmith services in Liverpool",
             featured: false,
             description: "Garage door lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
-            textcontent: "Garage door lock change"
+            textcontent: ""
         }
     },
     {
@@ -280,7 +280,7 @@ export default [{
             title: "Garage door lock installation - 24/4 locksmith services in Liverpool",
             featured: false,
             description: "Garage door lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
-            textcontent: "Garage door lock installation"
+            textcontent: ""
         }
     }
 ];
