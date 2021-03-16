@@ -31,7 +31,7 @@ export default class ContactForm extends Component {
                         </div>
                         <div className="col-sm-6">
                             <div className="contacts__form contact-form">
-                                <form action="" className="form">
+                                <form encType="multipart/form-data" method="post" className="form" id="form" onSubmit="send(event, 'send.php')">
                                     <div className="form__line">
                                         <label>Your Name (required)</label>
                                         <input type="text" className="input contact-form__input"/>
@@ -53,7 +53,7 @@ export default class ContactForm extends Component {
                                         <textarea className="input contact-form__input"></textarea>
                                     </div>
                                     <div className="form__line">
-                                        <input type="submit" className="form__button contact-form__submit btn btn--primary"/>
+                                        <button type="submit" className="form__button contact-form__submit btn btn--primary">SEND</button>
                                     </div>
                                 </form>
                             </div>
