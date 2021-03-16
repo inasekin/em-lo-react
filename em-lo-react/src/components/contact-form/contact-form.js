@@ -31,26 +31,23 @@ export default class ContactForm extends Component {
                         </div>
                         <div className="col-sm-6">
                             <div className="contacts__form contact-form">
+                                <div className="msg" onClick="gsapMsg.reverse()">Сообщение</div>
                                 <form encType="multipart/form-data" method="post" className="form" id="form" onSubmit="send(event, 'send.php')">
                                     <div className="form__line">
-                                        <label>Your Name (required)</label>
-                                        <input type="text" className="input contact-form__input"/>
+                                        <label for="name" className="input-label">Your Name (required)</label>
+                                        <input name="name" id="name" autoComplete="off" type="text" className="input contact-form__input aInput form-input aInputs"/>
                                     </div>
                                     <div className="form__line">
-                                        <label>Your Phone (required)</label>
-                                        <input type="text" className="input contact-form__input"/>
+                                        <label for="telephone">Your Phone (required)</label>
+                                        <input name="telephone" id="telephone" type="text" className="input contact-form__input aInput"/>
                                     </div>
                                     <div className="form__line">
-                                        <label>Your Email</label>
-                                        <input type="email" className="input contact-form__input"/>
+                                        <label for="email" className="input-label">Your Email</label>
+                                        <input className="input contact-form__input form-input aInput" name="email" id="email" type="text" autoComplete="off"/>
                                     </div>
                                     <div className="form__line">
-                                        <label>Subject</label>
-                                        <input type="text" className="input contact-form__input"/>
-                                    </div>
-                                    <div className="form__line">
-                                        <label>Your Message</label>
-                                        <textarea className="input contact-form__input"></textarea>
+                                        <label for="texta" className="area-label">Your Message</label>
+                                        <textarea name="texta" id="texta" class="aInput input contact-form__input"/>
                                     </div>
                                     <div className="form__line">
                                         <button type="submit" className="form__button contact-form__submit btn btn--primary">SEND</button>

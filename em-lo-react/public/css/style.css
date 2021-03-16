@@ -8334,3 +8334,15 @@ h2 {
   text-decoration: underline;
   cursor: pointer;
 }
+
+.aInput {
+  transition: border 0.2s ease-in-out;
+}
+
+.aInput:hover {
+  border: solid 1px green;
+}
+
+.aInput:focus {
+  border: solid 1px green;
+}
