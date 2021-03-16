@@ -50,10 +50,9 @@ export default class SingleService extends Component {
         url
         } = service;
 
-        if (url === "https://emergency-locksmith-24.co.uk/services/window-lock-repair/")
+        if (url === "https://emergency-locksmith-24.co.uk/services/window-lock-change/")
         {
             window.onload = function() {
-                console.log(123)
                 content();
 
                 function content() {
@@ -146,7 +145,6 @@ export default class SingleService extends Component {
             url === "https://emergency-locksmith-24.co.uk/services/garage-door-lock-installation/")
         {
             window.onload = function() {
-                console.log(123)
                 content();
 
                 function content() {
@@ -173,6 +171,31 @@ export default class SingleService extends Component {
                         '<p>Besides, such construction is adapted to harsh weather conditions, and also has some protection against external force action. That is why it is especially important to install it correctly. </p>' +
                         '<p>Our specialists have extensive experience in the installation of locking mechanisms of any type, they know how to fix the structure correctly and provide maximum security for your property.</p>' +
                         '<p>Call us now to make an inquiry, and we will offer you the best prices!</p>' +
+                        '<a href="tel:02080595259" class="site-link">02080595259</a>'
+                }
+            }
+        }
+
+        if (url === "https://emergency-locksmith-24.co.uk/services/window-lock-repair/")
+        {
+            window.onload = function() {
+                content();
+
+                function content() {
+                    document.getElementById("content-service").innerHTML = '<h2 class="block-title">Window Locks Repairs</h2>' +
+                        '<p>We offer different window locks services including window locks installation and replacement, window adjustment, cleaning and grease window fittings at an affordable price. If urgent repairs are needed, the foreman will arrive within 30 minutes.</p>' +
+                        '<h2 class="block-title">Prevention of window locks breakage </h2>' +
+                        '<p>Window locks keep your home safe, that is why it is very important to take care of their endurance. All manufacturers of fittings and window profiles recommend preventive maintenance such as cleaning and grease to extend the window locks’ life.</p>' +
+                        '<p>Due to untimely cleaning, grease, or adjustment of window mechanisms, the hardware begins to jam. Further action may lead to the breakage of some elements.</p>' +
+                        '<p>If the handle does not turn completely, or to close it, force is required, the reasons may lie either in the fact that the window sash sagged and needs to be adjusted, or the fittings need greasing. </p>' +
+                        '<h2 class="block-title">Window locks repair is a matter of professionals</h2>' +
+                        '<p>Nowadays, only real professionals can be entrusted with the repair of window locks. The fact is that modern locks are presented in a huge number, and each of them has its special design features.</p>' +
+                        '<p>It is necessary to seek help from experienced qualified specialists. Typically, if an amateur practices repairing a certain type of locks, he can only disassemble a mechanism of a different design, but it will no longer be possible to assemble it. In this case, you not only will not receive the repaired fittings, but you will also have to spend money on the purchase and installation of a new lock since even a professional will not be able to restore the old one.</p>' +
+                        '<p>Our professional locksmiths are well versed in the structure of all existing window locks. It means that they will be able to carry out all the necessary repair work quickly and efficiently, and significantly extend the lifespan of the mechanism, as well as exclude future breakdowns.</p>' +
+
+                        '<h2 class="block-title mt-50">Window locks replacement </h2>' +
+                        '<p>If the lock starts to jam or the handle is cracked, it is worth trying to repair it or, which is easiest, to replace it with a new one. As a rule, if the handles with the lock were installed incorrectly, they break, and after the repair, there is a possibility that after a while they will stop working again. </p>' +
+                        '<p>Our locksmith will provide high-quality replacement of window locks in a matter of minutes at an affordable price.</p>' +
                         '<a href="tel:02080595259" class="site-link">02080595259</a>'
                 }
             }
