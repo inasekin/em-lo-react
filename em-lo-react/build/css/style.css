@@ -8333,6 +8333,7 @@ h2 {
   color: #ff8e26 !important;
   text-decoration: underline;
   cursor: pointer;
+<<<<<<< HEAD
 }
 
 .aInput {
@@ -8345,4 +8346,6 @@ h2 {
 
 .aInput:focus {
   border: solid 1px green;
+=======
+>>>>>>> 1d2f6ede8f84da6fd1bf040a08c432238fea8c90
 }

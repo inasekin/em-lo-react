@@ -31,6 +31,10 @@ export default class ContactForm extends Component {
                         </div>
                         <div className="col-sm-6">
                             <div className="contacts__form contact-form">
+<<<<<<< HEAD
+=======
+                                <div className="msg" onClick="gsapMsg.reverse()">Сообщение</div>
+>>>>>>> 1d2f6ede8f84da6fd1bf040a08c432238fea8c90
                                 <form encType="multipart/form-data" method="post" className="form" id="form" onSubmit="send(event, 'send.php')">
                                     <div className="form__line">
                                         <label for="name" className="input-label">Your Name (required)</label>
