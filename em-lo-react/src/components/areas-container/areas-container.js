@@ -1,4 +1,4 @@
-import React, { Component }from "react";
+import React from "react";
 import { withAreaConsumer } from "../../context";
 import AreasList from "../areas-list";
 

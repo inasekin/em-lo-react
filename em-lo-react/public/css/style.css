@@ -8281,7 +8281,7 @@ h2 {
 
 .content-more .block-title {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
 }
 
 .block-title a:hover {
@@ -8319,4 +8319,45 @@ h2 {
 
 .sitemap-content a:hover {
   color: #ff8e26;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mt-50 {
+  margin-top: 50px;
+}
+
+.site-link {
+  color: #ff8e26 !important;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.aInput {
+  transition: border 0.2s ease-in-out;
+}
+
+.aInput:hover {
+  border: solid 1px green;
+}
+
+.aInput:focus {
+  border: solid 1px green;
+}
+
+#content-modal-areas a:hover {
+  color: #ff8e26 !important;
+  cursor: pointer;
+}
+
+/*TODO: clear*/
+
+.modal__overlay {
+  display: none !important;
+}
+
+.modal {
+  position: inherit !important;
 }
