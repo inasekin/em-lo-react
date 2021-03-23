@@ -8,71 +8,53 @@ export default class MapInteractive extends Component {
     this.onElChange = this.onElChange.bind(this);
   }
 
+  addClass() {
+    const modalWindow = document.getElementById("modal-window");
+    modalWindow.classList.add('modal--hidden');
+    document.getElementById("content-modal-areas-1").innerHTML = '';
+    document.getElementById("content-modal-areas-2").innerHTML = '';
+    document.getElementById("content-modal-areas-3").innerHTML = '';
+    document.getElementById("content-modal-areas-4").innerHTML = '';
+    document.getElementById("content-modal-areas-5").innerHTML = '';
+    document.getElementById("content-modal-areas-6").innerHTML = '';
+  }
+
   onElChange(e) {
-    const array = [];
     const mainUrl = {
       siteUrl: 'https://emergency-locksmith-24.co.uk'
     }
     const el = Number(e.currentTarget.id);
-    console.log(el);
+
+    // console.log(el);
 
 
     for (let i = 0; i < items.length; i++) {
-      console.log(items[i].fields.areaNumbers);
+      // console.log(items[i].fields.areaNumbers);
       if (items[i].fields.areaNumbers[0] === el) {
-        console.log(true)
         document.getElementById("content-modal-areas-1").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
       }
       if (items[i].fields.areaNumbers[1] === el) {
-        console.log(true);
         document.getElementById("content-modal-areas-2").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
       }
       if (items[i].fields.areaNumbers[2] === el) {
         document.getElementById("content-modal-areas-3").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
-        console.log(true);
       }
       if (items[i].fields.areaNumbers[3] === el) {
         document.getElementById("content-modal-areas-4").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
-        console.log(true);
       }
       if (items[i].fields.areaNumbers[4] === el) {
         document.getElementById("content-modal-areas-5").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
-        console.log(true);
       }
       if (items[i].fields.areaNumbers[5] === el) {
         document.getElementById("content-modal-areas-6").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
-        console.log(true);
       }
     }
-      // array.push(items[i].fields.areaNumbers);
-
-    // array.sort(function(a, b) {
-    //   return a.length - b.length;
-    // });
-    //
-    // console.log(array);
   }
 
-  // onItemMapChange() {
-
-  //   const list = document.getElementsByTagName('g');
-  //
-  //   for (let i = 0; i < list.length; i++)
-  //   {
-  //     if (list[i].id)
-  //       arr.push(Number(list[i].id));
-  // document.getElementById("content-modal-areas").innerHTML = `<a href="${mainUrl.siteUrl + items[i].fields.url}" className="area-link">${items[i].fields.name}</a>`;
-  //   }
-  //   arr.sort( function (arr, b) {
-  //     return arr - b;
-  //   });
-  //
-  //   console.log(arr);
-  //
-
-  // }
-
-
+  removeClass(){
+    const modalWindow = document.getElementById("modal-window");
+    modalWindow.classList.remove('modal--hidden');
+  }
 
   render() {
 
@@ -82,7 +64,7 @@ export default class MapInteractive extends Component {
               <h2 className="block-title text--align-center">Areas we cover</h2>
               <div className="areas-map-block__wrapper">
                 <div className="areas-map-block__map">
-                  <svg id="interactive-map" viewBox="0 0 657 890" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <svg id="interactive-map" onClick={() => {this.removeClass()}} viewBox="0 0 657 890" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g onClick={this.onElChange} id="33">
                       <path className="map-district-path" fillRule="evenodd" clipRule="evenodd" d="M441.806 435.354L440.57 435.462L439.58 434.723L439.413 434.588L439.336 434.459L440.398 432.491L440.184 431.55L439.182 430.315L439.067 430.271L438.867 429.856L438.513 427.267L441.6 424.728L441.664 423.975L440.658 422.545L439.853 421.7L440.014 420.724L440.055 420.657L443.891 418.573L443.537 417.857L443.884 417.398L444.869 417.092L445.651 417.675L445.642 417.904L447.421 418.686L448.544 417.865L448.592 417.7L448.557 416.845L448.197 415.997L447.853 415.793L445.852 413.223L445.67 413.241L444.955 412.909L442.124 411.894L440.857 412.585L438.946 413.02L438.051 413.901L437.251 414.012L436.178 414.496L435.068 415.476L433.184 415.956L431.493 418.436L429.484 418.993L427.851 420.279L426.948 420.14L424.296 419.131L423.671 417.104L423.004 416.355L421.002 414.933L420.747 414.142L417.054 410.492L415.031 406.618L414.359 405.531L417.381 403.391L417.864 402.156L417.979 401.568L418.108 398.507L417.57 395.75L415.336 390.823L419.032 388.635L420.304 387.491L421.311 386.423L422.48 384.531L424.375 380.538L424.454 380.323L424.945 379.715L426.188 378.019L426.366 377.722L427.471 377.443L427.918 377.315L430.524 375.997L435.116 373.011L438.289 372.708L446.916 361.045L451.951 362.718L466.447 359.681L480.059 362.358L480.168 362.287L485.83 361.923L487.481 363.787L515.987 375.877L516.417 394.811L514.237 400.489L514.561 401.444L516.958 404.662L517.055 413.504L527.558 439.277L528.464 444.857L539.186 447.547L543.726 455.902L544.19 458.139L544.272 460.126L542.593 465.676L534.091 470.541L530.634 474.13L524.161 479.464L521.913 474.121L506.245 470.684L504.48 474.739L495.179 469.279L492.407 474.325L492.206 474.414L491.777 476.501L486.051 483.459L482.568 481.588L482.387 481.261L474.518 478.22L473.674 478.734L467.15 478.61L465.073 477.8L464.141 478.197L461.7 477.739L457.06 478.765L456.095 476.837L455.401 474.455L455.784 473.024L456.331 472.43L459.113 471.863L459.077 470.67L459.751 469.636L462.882 467.717L463.236 467.642L462.386 464.869L462.535 463.528L463.579 461.734L463.626 461.456L465.226 459.459L464.667 458.412L463.948 456.347L462.628 454.874L463.257 450.886L462.138 450.478L458.751 447.602L457.625 447.818L457.176 447.808L456.536 447.515L455.75 446.633L455.677 445.458L453.515 444.694L453.231 443.974L452.6 443.32L452.052 443.602L450.571 443.62L449.534 442.11L449.017 442.086L448.592 442.186L446.895 440.305L445.581 440.924L444.339 438.668L444.376 438.504L442.694 437.308L442.576 436.269L442.463 436.038L441.806 435.354Z" stroke="#FF7F7F" strokeWidth="1.5" strokeLinejoin="round" />
                       <path
@@ -404,10 +386,9 @@ export default class MapInteractive extends Component {
                     </g>
                   </svg>
                 </div>
-                {/*modal--hidden*/}
-                <div className="areas-map-block__modal modal">
+                <div id="modal-window" className="areas-map-block__modal modal modal--hidden">
                   <div className="modal__wrapper">
-                    <button className="modal__close">&times;</button>
+                    <button className="modal__close" onClick={() => {this.addClass()}}>&times;</button>
                     <div className="modal__title">Areas we cover in this district</div>
                     <div className="modal__content">
                       <div id="content-modal-areas-1"></div>
