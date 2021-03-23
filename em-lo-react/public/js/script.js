@@ -55,45 +55,6 @@ if (isMobile.any()) {
 	document.querySelector('body').classList.add('_touch');
 }
 
-
-// // Modals
-//
-// function closeModal(modal) {
-// 	if (!modal.hasClass('modal--hidden')) {
-// 		modal.addClass('modal--hidden');
-// 	}
-// }
-//
-// function openModal(modal) {
-// 	if (modal.hasClass('modal--hidden')) {
-// 		modal.removeClass('modal--hidden');
-// 	}
-// }
-//
-// jQuery(document).ready(function() {
-// 	$('.modal').each(function() {
-// 		let modal = $(this);
-// 		modal.find('.modal__close').click(function() {
-// 			closeModal(modal);
-// 		});
-//
-// 	});
-//
-// 	$('#interactive-map g').click(function() {
-// 		openModal($('.areas-map-block__modal'));
-// 		return false;
-// 	});
-//
-// });
-//
-//
-// document.addEventListener('keydown', function (e) {
-//
-// 	if (e.key === 'Escape') {
-// 		$('.modal').addClass('modal--hidden');
-// 	}
-// });
-
 function ibg() {
 	if (isIE()) {
 		let ibg = document.querySelectorAll("._ibg");

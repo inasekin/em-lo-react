@@ -14,6 +14,7 @@ import Disclaimer from '../../pages/Disclaimer';
 import SingleService from '../../pages/SingleService';
 import SingleArea from '../../pages/SingleArea';
 import Error from '../../pages/Error';
+import ScrollToTop from '../scroll-to-top/ScrollToTop';
 
 import {Route, Switch} from 'react-router-dom';
 
@@ -22,6 +23,7 @@ export default class App extends Component {
         return (
             <div className="wrapper">
                 <Header />
+                <ScrollToTop />
                 <Switch>
                     <Route  exact path='/' component={Home}/>
                     <Route  exact path='/about' component={About}/>
