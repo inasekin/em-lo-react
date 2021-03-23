@@ -121,7 +121,7 @@ export default class SingleArea extends Component {
                               at any time.</p>
                       </div>
                       <div className="content-more__more">
-                          <a href="#" className="btn btn--primary">More...</a>
+                          <a href="/" className="btn btn--primary">More...</a>
                       </div>
                   </div>
               </div>
