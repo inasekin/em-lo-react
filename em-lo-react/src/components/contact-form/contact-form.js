@@ -70,6 +70,11 @@ const ContactForm = () => {
                     </div>
                     <div className="col-sm-6">
                         <div className="contacts__form contact-form">
+                            {result && (
+                                <div className={`${result.success ? 'success' : 'error'}`}>
+                                    {result.message}
+                                </div>
+                            )}
                             <form onSubmit={sendEmail} encType="multipart/form-data" method="post" className="form" id="form">
                                 <Form.Group controlId="name"  className="form__line">
                                     <Form.Label className="input-label">Full Name</Form.Label>

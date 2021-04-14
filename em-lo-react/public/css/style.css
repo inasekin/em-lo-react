@@ -8336,3 +8336,12 @@ h2 {
   cursor: pointer;
 }
 
+.success {
+  color: #0ff40f;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: #960303;
+  margin-bottom: 20px;
+}
