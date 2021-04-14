@@ -3137,7 +3137,7 @@ h2 {
   border: 2px solid #ff8e26;
   border-radius: 10px !important;
   padding: 12px 25px;
-  color: #bbb;
+  color: #000;
   font-weight: 600;
   font-size: 14px;
   text-align: left;
@@ -8335,3 +8335,4 @@ h2 {
   color: #ff8e26 !important;
   cursor: pointer;
 }
+
