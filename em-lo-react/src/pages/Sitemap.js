@@ -6,7 +6,7 @@ const Sitemap = () => {
     return (
         <>
             <Banner title="Sitemap" features1="24/7, 365 Days a Year"
-                    features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259" />
+                    features2="From £ 39" features3="At your door in 20 min" />
             <div className="container">
                 <div className="sitemap-content">
                     <a href="https://emergency-locksmith-24.co.uk/">Home</a>

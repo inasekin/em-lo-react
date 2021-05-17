@@ -51,7 +51,7 @@ const ContactForm = () => {
                             <div className="contacts__item">
                                 <div className="contacts__title">Contact info</div>
                                 <a className="contacts__link" href="#">info@emergency-locksmith-24.co.uk</a>
-                                <a className="contacts__link" href="#">020 8059 5259</a>
+                                <a className="contacts__link" href="#">020 8058 7698</a>
                             </div>
                             <div className="contacts__item">
                                 <div className="contacts__title">Mailing address</div>

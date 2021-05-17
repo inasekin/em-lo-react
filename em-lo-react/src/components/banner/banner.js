@@ -1,6 +1,6 @@
 import React from "react";
 
-const Banner = ({ features1, title, features2, features3, telefone }) => {
+const Banner = ({ features1, title, features2, features3 }) => {
     return (
         <section className="welcome-block section">
             <div className="_container">
@@ -11,8 +11,8 @@ const Banner = ({ features1, title, features2, features3, telefone }) => {
                         <div className="welcome-block__item">{features2}</div>
                         <div className="welcome-block__item">{features3}</div>
                     </div>
-                    <div className="welcome-block__callback"> <a href="tel:02080595259" 
-                    className="btn btn--secondary">Call us {telefone}</a> </div>
+                    <div className="welcome-block__callback"> <a href="tel:+442080595259"
+                    className="btn btn--secondary">Call us 020 8059 5259</a> </div>
                 </div>
             </div>
         </section>

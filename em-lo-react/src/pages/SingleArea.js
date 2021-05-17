@@ -66,7 +66,7 @@ export default class SingleArea extends Component {
           </MetaTags>
           <Banner title={`${name}`} 
             features1="24/7, 365 Days a Year" 
-            features2="From £ 39" features3="At your door in 20 min" telefone="020 8059 5259">
+            features2="From £ 39" features3="At your door in 20 min">
           </Banner>
 
           <div className="container">
@@ -75,7 +75,7 @@ export default class SingleArea extends Component {
                   <h2 className="block-title text--align-center title-uppercase">RELIABLE LOCKSMITHS IN {textcontent}</h2>
                   <div className="content-more__wrapper">
                       <div className="content-more__content">
-                          <p>You can reach us day or night by calling <span style={primaryText}> 020 8059 5259</span></p>
+                          <p>You can reach us day or night by calling <span style={primaryText}> 020 8058 7698</span></p>
                           <p>We are a local
                                {textcontent}
                               locksmith crew providing services around the clock in order to
@@ -117,7 +117,7 @@ export default class SingleArea extends Component {
                               systems allow us to select and implement the best possible solutions for our clients.
                               Turning to us, you can be confident in the favourable resolution of all your lock-related
                               problems. Contact us today, and see for yourself! Call
-                              <span style={primaryText}> 020 8059 5259</span>
+                              <span style={primaryText}> 020 8058 7698</span>
                               at any time.</p>
                       </div>
                       <div className="content-more__more">

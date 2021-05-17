@@ -5,7 +5,7 @@ const Callback = () => {
         <section className="callback-block section section--blue-bg">
             <div className="_container">
                 <div className="callback-block__wrapper">
-                    <div className="callback-block__text">Call us: 020 8059 5259 or</div>
+                    <div className="callback-block__text">Call us: 020 8058 7698 or</div>
                     <div className="callback-block__form-wrapper">
                         <form action="">
                             <div className="callback-block__form"> <input className="callback-block__input input"

@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="footer__content ">
                     <div className="row">
                         <div className="footer-info col-lg-4 col-sm-12">
-                            <p>Emergency Locksmith 24<br/> 020 8059 5259 <br/> info@emergency-locksmith-24.co.uk</p>
+                            <p>Emergency Locksmith 24<br/> 020 8058 7698 <br/> info@emergency-locksmith-24.co.uk</p>
                             <div className="footer__logo">
                                 <img src={some_icons} alt="xxx" className="footer-logo__img"/>
                             </div>

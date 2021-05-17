@@ -134,7 +134,7 @@ export default class SingleService extends Component {
                         '<h2 class="block-title">Do you need an urgent replacement of your window hardware?</h2>' +
                         '<p>If your sash does not open, the handle is broken off, or there are other problems with the window mechanism, but there is no time to wait? We offer urgent replacement services of hardware. Any malfunction will be fixed as soon as possible. We also provide a guarantee for services and parts.</p>' +
                         '<p>Call us now to make an inquiry, and we will offer you the best prices! Within an hour, our professional locksmith will arrive with the necessary components for quick and qualitative elimination of the problem. </p>' +
-                        '<a href="tel:02080595259" class="site-link">02080595259</a>'
+                        '<a href="tel:+442080587698" class="site-link">02080595259</a>'
                         ;
                 }
             }
@@ -171,7 +171,7 @@ export default class SingleService extends Component {
                         '<p>Besides, such construction is adapted to harsh weather conditions, and also has some protection against external force action. That is why it is especially important to install it correctly. </p>' +
                         '<p>Our specialists have extensive experience in the installation of locking mechanisms of any type, they know how to fix the structure correctly and provide maximum security for your property.</p>' +
                         '<p>Call us now to make an inquiry, and we will offer you the best prices!</p>' +
-                        '<a href="tel:02080595259" class="site-link">02080595259</a>'
+                        '<a href="tel:+442080587698" class="site-link">02080595259</a>'
                 }
             }
         }
@@ -196,7 +196,7 @@ export default class SingleService extends Component {
                         '<h2 class="block-title mt-50">Window locks replacement </h2>' +
                         '<p>If the lock starts to jam or the handle is cracked, it is worth trying to repair it or, which is easiest, to replace it with a new one. As a rule, if the handles with the lock were installed incorrectly, they break, and after the repair, there is a possibility that after a while they will stop working again. </p>' +
                         '<p>Our locksmith will provide high-quality replacement of window locks in a matter of minutes at an affordable price.</p>' +
-                        '<a href="tel:02080595259" class="site-link">02080595259</a>'
+                        '<a href="tel:+442080587698" class="site-link">02080595259</a>'
                 }
             }
         }

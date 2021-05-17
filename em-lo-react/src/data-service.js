@@ -8,7 +8,7 @@ export default [{
             slug: "emergency-locksmith-service",
             title: "Emergency locksmith service - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Emergency locksmith service. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Emergency locksmith service. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Emergency locksmith"
         }
     },
@@ -22,7 +22,7 @@ export default [{
             slug: "domestic-locksmith",
             title: "Domestic locksmith - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Domestic locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Domestic locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "An accurate opening of locks is the main principle of our work. We use special tools to \n" +
                 "open mechanical, electromechanical and electronic locking systems without damaging \n" +
                 "the door. Even in cases where it is required to open locks integrated into the alarm \n" +
@@ -41,7 +41,7 @@ export default [{
             slug: "commercial-locksmith",
             title: "Commercial locksmith - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Commercial locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Commercial locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: 
 
                 "COMMERCIAL LOCKSMITH – PROTECT YOUR BUSINESS \n" +
@@ -50,7 +50,7 @@ export default [{
                 "designed to control access to business premises.We will provide commercial property owners with the best\n" + 
                 "solutions to ensure adequate levels of safety.Keep in mind, insurance companies demand door locks on many\n" + 
                 "commercial properties to conform with BS3621.We are your local locksmith company specializing in the installation\n" +
-                "and opening of locking mechanisms in wooden, metal and uPVC doors.Call 020 8059 5259 whenever you need help with your locks.\n" +
+                "and opening of locking mechanisms in wooden, metal and uPVC doors.Call 020 8058 7698 whenever you need help with your locks.\n" +
                 " \n" +
                 "24 / 7 COMMERCIAL LOCKSMITH \n" +
                 " \n" +
@@ -74,10 +74,10 @@ export default [{
             slug: "lock-repair",
             title: "Lock repair - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: 
             
-            "DOOR HARDWARE REPAIR SERVICE AT 020 8059 5259 QUALITY LOCK PARTS\n" +
+            "DOOR HARDWARE REPAIR SERVICE AT 020 8058 7698 QUALITY LOCK PARTS\n" +
 
             "Our locksmith company provides repair service of interior and exterior locking systems installed in offices, apartments, garages and cars. We work with doors made of steel, wood and plastic. The cost of lock repair depends on the condition, type and security class of the device, as well as on the amount of labour.\n" +
             
@@ -101,10 +101,10 @@ export default [{
             slug: "lock-change",
             title: "Lock Lock change - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: 
 
-            "DOOR HARDWARE REPAIR SERVICE AT 020 8059 5259 QUALITY LOCK PARTS  \n" +
+            "DOOR HARDWARE REPAIR SERVICE AT 020 8058 7698 QUALITY LOCK PARTS  \n" +
 
             "Our locksmith company provides repair service of interior and exterior locking systems installed in offices, apartments, garages and cars. We work with doors made of steel, wood and plastic. The cost of lock repair depends on the condition, type and security class of the device, as well as on the amount of labour.\n" +
             "We work around the clock under any weather conditions. Whatever problem you’re experiencing with the lock, we can help. Our mobile locksmith units are staged throughout Liverpool and the surrounding areas for a rapid response to emergencies. Consultation is free. We can repair breakdowns of any complexity.\n" +
@@ -122,7 +122,7 @@ export default [{
             slug: "lock-installation",
             title: "Lock installation - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Lock installation"
         }
     },
@@ -136,7 +136,7 @@ export default [{
             slug: "burglary-repairs",
             title: "Burglary repairs - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Burglary repairs. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Burglary repairs. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: 
             "Our locksmith crew has accumulated enough experience to fix almost any damage, and restore the door to its original condition. We have our own technologies and tools that allow us to level damages to the metal structures. The specialist will straighten the door frame without any problems.\n" +
             "The services for after burglary repairs are seeing a rise in demand due to the increased incidence of break-ins. In addition, the owners are sometimes forced to break their doors when the key is lost or stolen. The door, outer upholstery, metal structures and lock can be damaged because of a burglary. If a specialist opened the door, the repairs will be less complex. The restoration of doors depends on the structure's condition and the method of opening used by an intruder or apartment owner.\n" +
@@ -153,7 +153,7 @@ export default [{
             slug: "locked-out-service",
             title: "Locked out service - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Locked out service. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Locked out service. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Locked out service"
         }
     },
@@ -167,7 +167,7 @@ export default [{
             slug: "key-copy",
             title: "Key copy - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Key copy. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Key copy. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Key copy"
         }
     },
@@ -181,7 +181,7 @@ export default [{
             slug: "key-cutting",
             title: "Key cutting - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Key cutting. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Key cutting. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Key cutting"
         }
     },
@@ -195,7 +195,7 @@ export default [{
             slug: "safe-locksmith",
             title: "Safe locksmith - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Safe locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Safe locksmith. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Safe locksmith"
         }
     },
@@ -209,7 +209,7 @@ export default [{
             slug: "window-lock-repair",
             title: "Window lock repair - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Window lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Window lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: ""
         }
     },
@@ -223,7 +223,7 @@ export default [{
             slug: "window-lock-change",
             title: "Window lock change - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Window lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Window lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Window lock change"
         }
     },
@@ -237,7 +237,7 @@ export default [{
             slug: "window-lock-installation",
             title: "Window lock installation - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Window lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Window lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: "Window lock installation"
         }
     },
@@ -251,7 +251,7 @@ export default [{
             slug: "garage-door-lock-repair",
             title: "Garage door lock repair - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Garage door lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Garage door lock repair. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: ""
         }
     },
@@ -265,7 +265,7 @@ export default [{
             slug: "garage-door-lock-change",
             title: "Garage door lock change - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Garage door lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Garage door lock change. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: ""
         }
     },
@@ -279,7 +279,7 @@ export default [{
             slug: "garage-door-lock-installation",
             title: "Garage door lock installation - 24/4 locksmith services in Liverpool",
             featured: false,
-            description: "Garage door lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8059 5259",
+            description: "Garage door lock installation. ✅24 hours a day, 7 days a week locksmith services in Liverpool. ✅High rated locksmiths. ✅Call Locksmiths now. ☎ 020 8058 7698",
             textcontent: ""
         }
     }

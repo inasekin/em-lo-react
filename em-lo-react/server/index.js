@@ -1,5 +1,6 @@
 const path = require('path');
 const express = require('express');
+const bodyParser = require('body-parser');
 const transporter = require('./config');
 const dotenv = require('dotenv');
 dotenv.config();
@@ -8,6 +9,8 @@ const app = express();
 const buildPath = path.join(__dirname, '..', 'build');
 app.use(express.json());
 app.use(express.static(buildPath));
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 
 app.post('/send', (req, res) => {
   try {
@@ -48,6 +51,6 @@ app.post('/send', (req, res) => {
   }
 });
 
-app.listen(3030, () => {
-  console.log('server start on port 3030');
+app.listen(8000, () => {
+  console.log('server start on port 8000');
 });
